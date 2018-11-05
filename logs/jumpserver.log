@@ -1,120 +1,179 @@
-2018-11-03 12:50:57 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:50:57 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:50:58 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:50:58 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:00 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:00 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:48 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:48 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:49 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:49 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:57 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:57 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:51:57 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 12:51:57 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 12:52:01 [signal_handler DEBUG] App ready signal recv
-2018-11-03 12:52:01 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
-2018-11-03 12:52:01 [tasks DEBUG] Period task disabled, update assets hardware info pass
-2018-11-03 12:52:01 [tasks DEBUG] Period task disabled, test admin user connectability pass
-2018-11-03 12:52:01 [tasks DEBUG] Period task disabled, test system user connectability pass
-2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 13:16:05 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:08 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:11 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:14 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:17 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:20 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:23 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:26 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:29 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:32 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:35 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:38 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:41 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:44 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:47 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:50 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:53 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:56 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:16:59 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:02 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:05 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:09 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:12 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:15 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:18 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:21 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:24 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:27 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:30 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:33 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:36 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:39 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:42 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:45 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:48 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:51 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:54 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:17:57 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:00 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:03 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:06 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:09 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:12 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:15 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:18 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:21 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:24 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:27 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:30 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:33 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:36 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:40 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:43 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:18:46 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
-2018-11-03 13:26:39 [log WARNING] Unauthorized: /api/users/v1/auth/
-2018-11-03 13:27:57 [log WARNING] Unauthorized: /api/users/v1/auth/
-2018-11-03 14:15:01 [tasks DEBUG] Period task disabled, update assets hardware info pass
-2018-11-03 14:15:01 [tasks DEBUG] Period task disabled, test admin user connectability pass
-2018-11-03 14:15:01 [tasks DEBUG] Period task disabled, test system user connectability pass
-2018-11-03 15:15:01 [tasks DEBUG] Period task disabled, update assets hardware info pass
-2018-11-03 15:15:01 [tasks DEBUG] Period task disabled, test admin user connectability pass
-2018-11-03 15:15:01 [tasks DEBUG] Period task disabled, test system user connectability pass
-2018-11-03 15:15:14 [signal_handler DEBUG] App shutdown signal recv
-2018-11-03 15:15:14 [signal_handler DEBUG] Clean need cleaned period tasks: []
-2018-11-03 16:22:32 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:32 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:34 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:34 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:40 [signals_handler DEBUG] Receive django ready signal
-2018-11-03 16:22:40 [signals_handler DEBUG]   - fresh all settings
-2018-11-03 16:22:43 [signal_handler DEBUG] App ready signal recv
-2018-11-03 16:22:43 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
-2018-11-03 16:22:43 [tasks DEBUG] Period task disabled, test admin user connectability pass
-2018-11-03 16:22:43 [tasks DEBUG] Period task disabled, update assets hardware info pass
-2018-11-03 16:22:43 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-11-05 11:02:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 11:02:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 11:02:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 11:02:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:36:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:36:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:36:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:36:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:42:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:42:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:42:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:42:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:45:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:45:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:45:28 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:45:28 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:45:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:45:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:50:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:50:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:50:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:50:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:52:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:52:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:52:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:52:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:54:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:54:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:54:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:54:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:55:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:55:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:01:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:01:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:03:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:03:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:03:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:03:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:06:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:06:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:08:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:08:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:08:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:08:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:09:25 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:09:25 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:10:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:10:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:17:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:17:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:23:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:23:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:23:40 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:23:40 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:24:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:24:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:24:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:24:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:25:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:25:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:32:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:32:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:33:06 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-05 15:33:06 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4001
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-05 15:33:07 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25349
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-11-05 15:33:08 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-05 15:33:14 [basehttp INFO] "POST /users/login/?next=/ HTTP/1.1" 302 0
+2018-11-05 15:33:14 [basehttp INFO] "GET / HTTP/1.1" 200 27055
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 15:33:14 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 200 3984
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 200 5216
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 200 4636
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 200 363230
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 200 18125
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 200 11750
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 200 12928
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 200 12159
+2018-11-05 15:33:29 [log WARNING] Not Found: /onlineconfig/ningx
+2018-11-05 15:33:30 [basehttp WARNING] "GET /onlineconfig/ningx HTTP/1.1" 404 4476
+2018-11-05 15:33:30 [log WARNING] Not Found: /favicon.ico
+2018-11-05 15:33:30 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4402
+2018-11-05 15:33:30 [log WARNING] Not Found: /favicon.ico
+2018-11-05 15:33:30 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4402
+2018-11-05 15:35:47 [log WARNING] Not Found: /onlineconfig/ningx/
+2018-11-05 15:35:47 [basehttp WARNING] "GET /onlineconfig/ningx/ HTTP/1.1" 404 4479
+2018-11-05 15:35:51 [log WARNING] Not Found: /onlineconfig/ningx/
+2018-11-05 15:35:51 [basehttp WARNING] "GET /onlineconfig/ningx/ HTTP/1.1" 404 4479
+2018-11-05 15:36:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:36:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:37:59 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:37:59 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:39:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:39:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:39:50 [log WARNING] Not Found: /onlineconfig/ningx/
+2018-11-05 15:39:50 [basehttp WARNING] "GET /onlineconfig/ningx/ HTTP/1.1" 404 4639
+2018-11-05 15:39:53 [basehttp INFO] "GET /onlineconfig/ HTTP/1.1" 200 23
+2018-11-05 15:42:13 [basehttp INFO] "GET /onlineconfig/ HTTP/1.1" 200 23
+2018-11-05 15:46:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:46:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:46:36 [basehttp INFO] "GET /onlineconfig/nginx HTTP/1.1" 301 0
+2018-11-05 15:46:36 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 24
+2018-11-05 15:48:25 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:48:25 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:48:28 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 144
+2018-11-05 15:51:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:51:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:53:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:53:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:53:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:53:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:02:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 16:02:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:03:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 16:03:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:13:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 16:13:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:14:51 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 144
+2018-11-05 17:03:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 17:03:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 17:03:51 [basehttp INFO] "GET / HTTP/1.1" 200 27055
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 200 3984
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 200 4636
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 200 5216
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 200 12159
+2018-11-05 17:05:23 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-05 17:05:23 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4189
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25349
+2018-11-05 17:05:24 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744

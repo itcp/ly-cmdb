@@ -64,6 +64,8 @@ INSTALLED_APPS = [
     'common.apps.CommonConfig',
     'terminal.apps.TerminalConfig',
     'audits.apps.AuditsConfig',
+ #   'onlineconfig.apps.OnlineconfigConfig',
+    'onlineconfig',
     'rest_framework',
     'rest_framework_swagger',
     'drf_yasg',
