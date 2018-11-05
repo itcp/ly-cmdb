@@ -1,0 +1,188 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block custom_head_css_js %}
+    <link href="{% static 'css/plugins/ztree/awesomeStyle/awesome.css' %}" rel="stylesheet">
+    <script type="text/javascript" src="{% static 'js/plugins/ztree/jquery.ztree.all.min.js' %}"></script>
+    <script src="{% static 'js/jquery.form.min.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+<div class="wrapper wrapper-content">
+   <div class="row">
+       <div class="col-lg-3" id="split-left" style="padding-left: 3px">
+           <div class="ibox float-e-margins">
+               <div class="ibox-content mailbox-content" style="padding-top: 0;padding-left: 1px">
+                   <div class="file-manager ">
+                       <div id="assetTree" class="ztree">
+                       </div>
+
+                       <div class="clearfix"></div>
+                   </div>
+               </div>
+           </div>
+       </div>
+       <div class="col-lg-9 animated fadeInRight" id="split-right">
+           <div class="tree-toggle">
+               <div class="btn btn-sm btn-primary tree-toggle-btn" onclick="toggle()">
+                   <i class="fa fa-angle-left fa-x" id="toggle-icon"></i>
+               </div>
+           </div>
+           <div class="mail-box-header">
+               <div class="btn-group" style="float: right">
+                   <button data-toggle="dropdown" class="btn btn-default btn-sm dropdown-toggle">{% trans 'Label' %} <span class="caret"></span></button>
+                   <ul class="dropdown-menu labels">
+                       {% for label in labels %}
+                           <li><a style="font-weight: bolder">{{ label.name }}:{{ label.value }}</a></li>
+                       {% endfor %}
+                   </ul>
+               </div>
+               <table class="table table-striped table-bordered table-hover " id="user_assets_table" style="width: 100%">
+                   <thead>
+                       <tr>
+                           <th class="text-center"><input type="checkbox" class="ipt_check_all"></th>
+                           <th class="text-center">{% trans 'Hostname' %}</th>
+                           <th class="text-center">{% trans 'IP' %}</th>
+                           <th class="text-center">{% trans 'Active' %}</th>
+                           <th class="text-center">{% trans 'System users' %}</th>
+                       </tr>
+                   </thead>
+                   <tbody>
+                   </tbody>
+               </table>
+           </div>
+       </div>
+   </div>
+</div>
+
+{% include 'assets/_user_asset_detail_modal.html' %}
+{% endblock %}
+
+
+{% block custom_foot_js %}
+<script>
+var zTree, asset_table;
+var inited = false;
+var url;
+function initTable() {
+    if (inited){
+        return
+    } else {
+        inited = true;
+    }
+    console.log("init table")
+    url = "{% url 'api-perms:my-assets' %}";
+    var options = {
+        ele: $('#user_assets_table'),
+        columnDefs: [
+            {targets: 1, createdCell: function (td, cellData, rowData) {
+                var detail_btn = '<a class="asset_detail" asset-id="rowData_id" data-toggle="modal" data-target="#user_asset_detail_modal" tabindex="0">'+ cellData +'</a>'
+                $(td).html(detail_btn.replace("rowData_id", rowData.id));
+                }},
+            {targets: 3, createdCell: function (td, cellData) {
+                if (!cellData) {
+                    $(td).html('<i class="fa fa-times text-danger"></i>')
+                } else {
+                    $(td).html('<i class="fa fa-check text-navy"></i>')
+                }
+            }},
+            {targets: 4, createdCell: function (td, cellData) {
+                var users = [];
+                $.each(cellData, function (id, data) {
+                    users.push(data.name);
+                });
+                $(td).html(users.join(', '))
+            }}
+        ],
+        ajax_url: url,
+        columns: [
+            {data: "id"}, {data: "hostname" }, {data: "ip" },
+            {data: "is_active", orderable: false },
+            {data: "system_users_granted", orderable: false}
+        ]
+    };
+    asset_table = jumpserver.initDataTable(options);
+    return asset_table
+}
+
+function onSelected(event, treeNode) {
+    url = '{% url "api-perms:my-node-assets" node_id=DEFAULT_PK %}';
+    url = url.replace("{{ DEFAULT_PK }}", treeNode.node_id);
+    setCookie('node_selected', treeNode.id);
+    asset_table.ajax.url(url);
+    asset_table.ajax.reload();
+}
+
+function initTree() {
+    var setting = {
+        view: {
+            dblClickExpand: false,
+            showLine: true
+        },
+        data: {
+            simpleData: {
+                enable: true
+            }
+        },
+        callback: {
+            onSelected: onSelected
+        }
+    };
+
+    var zNodes = [];
+    $.get("{% url 'api-perms:my-nodes' %}", function(data, status){
+        $.each(data, function (index, value) {
+            value["node_id"] = value["id"];
+            value["id"] = value["tree_id"];
+            if (value["tree_id"] !== value["tree_parent"]) {
+                value["pId"] = value["tree_parent"];
+            }
+            value["isParent"] = value["is_node"];
+            value['name'] = value['value'];
+        });
+        zNodes = data;
+        $.fn.zTree.init($("#assetTree"), setting, zNodes);
+        zTree = $.fn.zTree.getZTreeObj("assetTree");
+        var root = zTree.getNodes()[0];
+        zTree.expandNode(root);
+    });
+}
+
+$(document).ready(function () {
+    initTree();
+    initTable();
+})
+.on('click', '.asset_detail', function() {
+    var data = asset_table.ajax.json();
+    var asset_id = this.getAttribute("asset-id");
+    var trs = '';
+    var desc = {
+        'hostname': "{% trans 'Hostname' %}",
+        'ip': "{% trans 'IP' %}",
+        'port': "{% trans 'Port' %}",
+        'protocol': "{% trans 'Protocol' %}",
+        'platform': "{% trans 'Platform' %}",
+        'os': "{% trans 'OS' %}",
+        'system_users_join': "{% trans 'System user' %}",
+        'domain': "{% trans 'Domain' %}",
+        'is_active': "{% trans 'Is active' %}",
+        'comment': "{% trans 'Comment' %}"
+        {#'date_joined': "{% trans 'Date joined' %}",#}
+    };
+    $.each(data, function(index, value){
+        if(value.id === asset_id){
+            for(var i in desc){
+                trs += "<tr class='no-borders-tr'>\n" +
+                  "<td>"+ desc[i] + ":</td>"+
+                  "<td><b>"+ (value[i] === null?'':value[i]) + "</b></td>\n" +
+                  "</tr>";
+            }
+        }
+    });
+    $('#asset_detail_tbody').html(trs)
+});
+
+</script>
+
+{% endblock %}

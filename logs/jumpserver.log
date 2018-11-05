@@ -1,0 +1,120 @@
+2018-11-03 12:50:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:50:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:50:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:50:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:00 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:00 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:48 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:48 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:51:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 12:51:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 12:52:01 [signal_handler DEBUG] App ready signal recv
+2018-11-03 12:52:01 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-11-03 12:52:01 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-11-03 12:52:01 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-11-03 12:52:01 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 13:14:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 13:14:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 13:16:05 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:08 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:11 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:14 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:17 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:20 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:23 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:26 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:29 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:32 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:35 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:38 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:41 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:44 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:47 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:50 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:53 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:56 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:16:59 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:02 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:05 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:09 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:12 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:15 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:18 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:21 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:24 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:27 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:30 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:33 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:36 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:39 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:42 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:45 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:48 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:51 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:54 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:17:57 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:00 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:03 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:06 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:09 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:12 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:15 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:18 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:21 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:24 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:27 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:30 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:33 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:36 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:40 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:43 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:18:46 [log WARNING] Bad Request: /api/terminal/v1/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/access-key/
+2018-11-03 13:26:39 [log WARNING] Unauthorized: /api/users/v1/auth/
+2018-11-03 13:27:57 [log WARNING] Unauthorized: /api/users/v1/auth/
+2018-11-03 14:15:01 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-11-03 14:15:01 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-11-03 14:15:01 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-11-03 15:15:01 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-11-03 15:15:01 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-11-03 15:15:01 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-11-03 15:15:14 [signal_handler DEBUG] App shutdown signal recv
+2018-11-03 15:15:14 [signal_handler DEBUG] Clean need cleaned period tasks: []
+2018-11-03 16:22:32 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:32 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:40 [signals_handler DEBUG] Receive django ready signal
+2018-11-03 16:22:40 [signals_handler DEBUG]   - fresh all settings
+2018-11-03 16:22:43 [signal_handler DEBUG] App ready signal recv
+2018-11-03 16:22:43 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-11-03 16:22:43 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-11-03 16:22:43 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-11-03 16:22:43 [tasks DEBUG] Period task disabled, test system user connectability pass
