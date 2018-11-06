@@ -117,6 +117,14 @@
     </a>
 </li>
 {% endif %}
+<li id="onlineconfig">
+    <a>
+        <i class="fa fa-inbox" style="width: 14px"></i> <span class="nav-label">{% trans 'Online Config' %}</span><span class="fa arrow"></span>
+    </a>
+    <ul class="nav nav-second-level">
+        <li id="nginx"><a href="{% url 'onlineconfig:nginx' %}">{% trans 'Nginx conf' %}</a></li>
+    </ul>
+</li>
 
 <script>
 $(document).ready(function () {
