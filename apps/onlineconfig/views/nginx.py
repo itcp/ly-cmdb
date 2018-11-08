@@ -11,6 +11,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 import json
 from django.views.decorators.csrf import csrf_protect
+import os,sys
 
 from common.utils import get_logger
 
@@ -34,14 +35,30 @@ def nginx_index(request):
 @csrf_protect
 def create_conf(request):
     
-    #if request.POST:
-    #    ctx['server_name'] = request.POST['server_name']
-    
-    #receipt = json.dumps({"status": 1, "servername":request.POST})
-    print(3)
+    hostip = '192.168.181.130'
+    conf_dir = '/usr/local/src/'
     if request.is_ajax():
-        receipt = json.dumps(request.GET)
+        #receipt = json.dumps(request.GET)
+
+        server_name = request.GET['server_name']
+        root_dir = request.GET['root_dir']
+
+        os.system('ssh root@' + hostip + ' "cp ' + conf_dir + 'server.conf ' + conf_dir + server_name + '.conf"')
+
+        update_rootdir = "'sed -i \"s#/home/wwwroot/dist;#/home/wwwroot/" + root_dir + ";#g\" " + conf_dir + server_name +".conf'"
+        update_servername = "'sed -i \"s#server_name benz.huihuang200.com;#server_name " + server_name + ";#g\" " + conf_dir+ server_name +".conf'"
+        update_log = "'sed -i \"s#/home/wwwlogs/benz.huihuang200.com.log#/home/wwwlogs/" + server_name + ".log#g\" " + conf_dir + server_name +".conf'"
+        update_errorlog = "'sed -i \"s#/home/wwwlogs/benz.huihuang200.com.error.log#/home/wwwlogs/" + server_name + ".error.log#g\" " + conf_dir + server_name +".conf'"
+
+        os.system('ssh root@192.168.181.130 ' + update_rootdir)
+        os.system('ssh root@192.168.181.130 ' + update_servername)
+        os.system('ssh root@192.168.181.130 ' + update_log)
+        os.system('ssh root@192.168.181.130 ' + update_errorlog)
+
+        receipt = json.dumps({"status": 2, "info": request.GET})
     else:
-        receipt = json.dumps(1)
+        receipt = json.dumps(0)
+    
+
     return HttpResponse(receipt)
 

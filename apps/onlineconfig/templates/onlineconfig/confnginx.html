@@ -31,12 +31,7 @@
                             <div class="form-group">
                                 root_dir: <input type="text" name="root_dir">
                             </div>
-                            <div class="form-group">
-                                access_log: <input type="text" name="access_log">
-                            </div>
-                            <div class="form-group">
-                                error_log: <input type="text" name="error_log">
-                            </div>
+                         
                             <div class="form-group">
                                 <div class="col-sm-4 col-sm-offset-2">
                                     <button class="btn btn-white" type="reset">{% trans 'Cancel' %}</button>
@@ -73,8 +68,8 @@ function addForm(oDom){
           data: $("#addForm").serialize(),
           success : function(data){
             $(oDom).removeAttr("disabled");
-              if(data == 1){
-                  layer.alert('添加成功！');
+              if(data['status'] == 2){
+                  alert('添加 ' + data['info']['server_name'] + ' 成功！');
               }
               
           }

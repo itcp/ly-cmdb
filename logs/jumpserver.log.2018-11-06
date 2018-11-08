@@ -1,0 +1,1771 @@
+2018-11-05 11:02:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 11:02:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 11:02:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 11:02:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:36:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:36:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:36:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:36:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:42:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:42:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:42:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:42:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:45:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:45:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:45:28 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:45:28 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:45:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:45:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:50:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:50:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:50:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:50:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:52:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:52:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:52:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:52:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:54:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:54:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:54:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:54:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 14:55:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 14:55:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:01:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:01:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:03:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:03:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:03:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:03:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:06:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:06:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:08:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:08:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:08:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:08:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:09:25 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:09:25 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:10:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:10:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:17:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:17:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:23:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:23:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:23:40 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:23:40 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:24:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:24:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:24:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:24:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:25:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:25:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:32:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:32:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:33:06 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-05 15:33:06 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4001
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-05 15:33:07 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25349
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-11-05 15:33:07 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-11-05 15:33:08 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-05 15:33:14 [basehttp INFO] "POST /users/login/?next=/ HTTP/1.1" 302 0
+2018-11-05 15:33:14 [basehttp INFO] "GET / HTTP/1.1" 200 27055
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 15:33:14 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 200 3984
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 200 5216
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 200 4636
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 200 363230
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 200 18125
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 200 11750
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 200 12928
+2018-11-05 15:33:14 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 200 12159
+2018-11-05 15:33:29 [log WARNING] Not Found: /onlineconfig/ningx
+2018-11-05 15:33:30 [basehttp WARNING] "GET /onlineconfig/ningx HTTP/1.1" 404 4476
+2018-11-05 15:33:30 [log WARNING] Not Found: /favicon.ico
+2018-11-05 15:33:30 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4402
+2018-11-05 15:33:30 [log WARNING] Not Found: /favicon.ico
+2018-11-05 15:33:30 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4402
+2018-11-05 15:35:47 [log WARNING] Not Found: /onlineconfig/ningx/
+2018-11-05 15:35:47 [basehttp WARNING] "GET /onlineconfig/ningx/ HTTP/1.1" 404 4479
+2018-11-05 15:35:51 [log WARNING] Not Found: /onlineconfig/ningx/
+2018-11-05 15:35:51 [basehttp WARNING] "GET /onlineconfig/ningx/ HTTP/1.1" 404 4479
+2018-11-05 15:36:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:36:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:37:59 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:37:59 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:39:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:39:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:39:50 [log WARNING] Not Found: /onlineconfig/ningx/
+2018-11-05 15:39:50 [basehttp WARNING] "GET /onlineconfig/ningx/ HTTP/1.1" 404 4639
+2018-11-05 15:39:53 [basehttp INFO] "GET /onlineconfig/ HTTP/1.1" 200 23
+2018-11-05 15:42:13 [basehttp INFO] "GET /onlineconfig/ HTTP/1.1" 200 23
+2018-11-05 15:46:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:46:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:46:36 [basehttp INFO] "GET /onlineconfig/nginx HTTP/1.1" 301 0
+2018-11-05 15:46:36 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 24
+2018-11-05 15:48:25 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:48:25 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:48:28 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 144
+2018-11-05 15:51:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:51:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:53:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:53:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 15:53:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 15:53:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:02:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 16:02:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:03:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 16:03:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:13:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 16:13:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 16:14:51 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 144
+2018-11-05 17:03:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 17:03:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 17:03:51 [basehttp INFO] "GET / HTTP/1.1" 200 27055
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 200 3984
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 200 4636
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 200 5216
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 200 5877
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
+2018-11-05 17:03:51 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 200 12159
+2018-11-05 17:05:23 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-05 17:05:23 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4189
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-11-05 17:05:23 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25349
+2018-11-05 17:05:24 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-05 17:05:24 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-05 18:54:50 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 18:54:50 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 18:54:51 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 18:54:51 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 19:22:35 [basehttp INFO] "GET /i18n/en/ HTTP/1.1" 302 0
+2018-11-05 19:22:36 [basehttp INFO] "GET / HTTP/1.1" 200 27116
+2018-11-05 19:22:36 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-05 19:27:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 19:27:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 19:28:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-05 19:28:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-05 19:28:15 [basehttp INFO] "GET / HTTP/1.1" 200 27408
+2018-11-05 19:28:15 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-05 19:28:52 [basehttp INFO] "GET / HTTP/1.1" 200 27408
+2018-11-05 19:28:52 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-05 19:29:13 [basehttp INFO] "GET / HTTP/1.1" 200 27407
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
+2018-11-05 19:29:13 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 304 0
+2018-11-05 19:32:13 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-05 19:32:13 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4192
+2018-11-05 19:32:13 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-11-05 19:32:13 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-11-05 19:32:13 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-05 19:32:13 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-11-05 19:32:13 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-05 19:32:13 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25349
+2018-11-05 19:32:14 [basehttp INFO] "GET /en-gb/jsi18n/ HTTP/1.1" 200 5737
+2018-11-05 19:32:14 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-06 10:03:02 [basehttp INFO] "GET / HTTP/1.1" 200 27415
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 10:03:02 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
+2018-11-06 10:03:03 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 304 0
+2018-11-06 10:03:09 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 144
+2018-11-06 10:16:59 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 25513
+2018-11-06 10:16:59 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 10:16:59 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 10:16:59 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:16:59 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 200 15196
+2018-11-06 10:16:59 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 200 75005
+2018-11-06 10:16:59 [basehttp INFO] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 15248
+2018-11-06 10:16:59 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 10:17:00 [basehttp INFO] "GET /static/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23424
+2018-11-06 10:17:00 [basehttp INFO] "GET /api/users/v1/users/?_=1541470619748 HTTP/1.1" 200 555
+2018-11-06 10:17:03 [basehttp INFO] "GET /users/user-group/ HTTP/1.1" 200 18890
+2018-11-06 10:17:03 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 200 15196
+2018-11-06 10:17:03 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 200 75005
+2018-11-06 10:17:03 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:17:03 [basehttp INFO] "GET /api/users/v1/groups/?_=1541470623470 HTTP/1.1" 200 174
+2018-11-06 10:17:12 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 25513
+2018-11-06 10:17:12 [basehttp INFO] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 15248
+2018-11-06 10:17:12 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:17:13 [basehttp INFO] "GET /api/users/v1/users/?_=1541470632863 HTTP/1.1" 200 555
+2018-11-06 10:17:14 [basehttp INFO] "GET /users/user/create/ HTTP/1.1" 200 18284
+2018-11-06 10:17:15 [basehttp INFO] "GET /static/js/pwstrength-bootstrap.js HTTP/1.1" 200 29322
+2018-11-06 10:17:15 [basehttp INFO] "GET /static/js/plugins/datepicker/bootstrap-datepicker.js HTTP/1.1" 200 46821
+2018-11-06 10:17:15 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:22:53 [basehttp INFO] "GET /users/user-group/ HTTP/1.1" 200 18890
+2018-11-06 10:22:53 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:22:54 [basehttp INFO] "GET /api/users/v1/groups/?_=1541470974108 HTTP/1.1" 200 174
+2018-11-06 10:23:00 [basehttp INFO] "GET /users/user-group/create/ HTTP/1.1" 200 15805
+2018-11-06 10:23:00 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:39:09 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 144
+2018-11-06 10:40:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 10:40:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 10:40:43 [log ERROR] Internal Server Error: /onlineconfig/nginx/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/storage/py3/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/storage/py3/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/storage/py3/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/storage/py3/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/storage/py3/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-11-06 10:40:43 [basehttp ERROR] "GET /onlineconfig/nginx/ HTTP/1.1" 500 163035
+2018-11-06 10:46:02 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11941
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:46:02 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 13874
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:46:45 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 13979
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:47:58 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 10:48:24 [log ERROR] Internal Server Error: /onlineconfig/nginx/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/storage/py3/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/storage/py3/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/storage/py3/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/storage/py3/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/storage/py3/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-11-06 10:48:24 [basehttp ERROR] "GET /onlineconfig/nginx/ HTTP/1.1" 500 163109
+2018-11-06 11:26:59 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 14982
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 11:26:59 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 11:26:59 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 11:27:00 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 11:27:00 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 11:27:00 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 11:27:00 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:27:00 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:27:14 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-06 11:27:14 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4192
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25349
+2018-11-06 11:27:14 [basehttp INFO] "GET /en-gb/jsi18n/ HTTP/1.1" 200 5737
+2018-11-06 11:27:14 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 200 16275
+2018-11-06 11:28:51 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15191
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:28:51 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15397
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:29:14 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15080
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 11:40:37 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 11:40:37 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 11:40:38 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 11:40:38 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 11:40:38 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 11:40:38 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:40:38 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15391
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 11:42:37 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 11:42:38 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:42:38 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 11:43:29 [basehttp INFO] "GET /i18n/zh-hans/ HTTP/1.1" 302 0
+2018-11-06 11:43:29 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15459
+2018-11-06 11:43:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 13:48:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 13:48:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 13:48:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 13:48:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:20:51 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:20:51 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:22:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:22:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:24:02 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:24:02 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:29:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:29:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:30:53 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:30:53 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:31:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:31:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:33:47 [log ERROR] Internal Server Error: /onlineconfig/nginx/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 34, in NginxIndexVies
+    return render(request, 'onlineconfig/confnginx.htm')
+  File "/storage/py3/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: onlineconfig/confnginx.htm
+2018-11-06 14:33:47 [basehttp ERROR] "GET /onlineconfig/nginx/ HTTP/1.1" 500 99336
+2018-11-06 14:35:00 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:35:00 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:37:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:37:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:37:19 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:37:19 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:37:22 [log ERROR] Internal Server Error: /onlineconfig/nginx/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 34, in nginx_index
+    return render(request, 'onlineconfig/confnginx.htm')
+  File "/storage/py3/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: onlineconfig/confnginx.htm
+2018-11-06 14:37:22 [basehttp ERROR] "GET /onlineconfig/nginx/ HTTP/1.1" 500 99306
+2018-11-06 14:37:24 [log ERROR] Internal Server Error: /onlineconfig/nginx/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 34, in nginx_index
+    return render(request, 'onlineconfig/confnginx.htm')
+  File "/storage/py3/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: onlineconfig/confnginx.htm
+2018-11-06 14:37:24 [basehttp ERROR] "GET /onlineconfig/nginx/ HTTP/1.1" 500 99306
+2018-11-06 14:38:00 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:38:00 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:38:27 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:38:27 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:38:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:38:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:38:46 [log ERROR] Internal Server Error: /onlineconfig/nginx/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 34, in nginx_index
+    return render(request, 'onlineconfig/confnginx.htm')
+  File "/storage/py3/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/storage/py3/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: onlineconfig/confnginx.htm
+2018-11-06 14:38:46 [basehttp ERROR] "GET /onlineconfig/nginx/ HTTP/1.1" 500 99306
+2018-11-06 14:42:06 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:42:06 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:42:09 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 9
+2018-11-06 14:44:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:44:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:44:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:44:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:46:59 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:46:59 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:47:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:47:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:47:56 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:47:56 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:48:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:48:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:48:26 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:48:26 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 14:48:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 14:48:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:04:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:04:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:04:27 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15906
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:04:27 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15930
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:06:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:06:26 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:06:26 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:06:26 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:06:26 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:06:26 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:06:30 [log WARNING] Not Found: /onlineconfig/nginx/add_flowline
+2018-11-06 15:06:30 [basehttp WARNING] "POST /onlineconfig/nginx/add_flowline HTTP/1.1" 404 4722
+2018-11-06 15:07:27 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:07:27 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:07:41 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:07:41 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:08:17 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15935
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:08:18 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:08:21 [log WARNING] Not Found: /onlineconfig/nginx/nginx/create_conf
+2018-11-06 15:08:21 [basehttp WARNING] "POST /onlineconfig/nginx/nginx/create_conf HTTP/1.1" 404 4737
+2018-11-06 15:09:07 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:09:07 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:09:10 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:09:10 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:09:11 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:09:11 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:09:11 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:09:11 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:09:11 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:09:12 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8080/onlineconfig/nginx/create_conf/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2018-11-06 15:09:12 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 20141
+2018-11-06 15:10:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:10:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:11:08 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:11:08 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:11:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:11:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:11:41 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:11:41 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:11:49 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:11:49 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:11:49 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:11:50 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:11:50 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:11:50 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:11:50 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:11:52 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8080/onlineconfig/nginx/create_conf/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2018-11-06 15:11:52 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 20141
+2018-11-06 15:13:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:13:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:14:03 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:14:03 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:14:04 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:14:04 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:14:04 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:14:04 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:14:04 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:14:07 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 1
+2018-11-06 15:14:25 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:14:25 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:14:33 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:14:33 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:33 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:33 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:33 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:14:33 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:14:33 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:14:34 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:14:35 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 40, in create_conf
+    receipt = json.dumps({"status": 1, "servername": ctx['server_name']})
+NameError: name 'ctx' is not defined
+2018-11-06 15:14:35 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 19928
+2018-11-06 15:15:02 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:15:02 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:15:04 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:15:04 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:15:05 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:15:05 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:15:05 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:15:05 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:15:05 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:15:06 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 40, in create_conf
+    receipt = json.dumps({"status": 1, "servername": ctx['server_name']})
+TypeError: list indices must be integers or slices, not str
+2018-11-06 15:15:06 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 19974
+2018-11-06 15:15:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:15:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:15:59 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:15:59 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:16:00 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:16:00 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 40, in create_conf
+    receipt = json.dumps({"status": 1, "servername": ctx['server_name']})
+KeyError: 'server_name'
+2018-11-06 15:16:00 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 19902
+2018-11-06 15:17:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:17:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:17:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:17:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:17:20 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:17:20 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:17:21 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:17:21 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:17:21 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:17:21 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:17:21 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:17:22 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 31
+2018-11-06 15:23:48 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:23:48 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:23:51 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:23:51 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:23:52 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:23:52 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:23:52 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:23:52 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:23:52 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:23:53 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 2
+2018-11-06 15:25:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:25:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:25:15 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:25:15 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:25:15 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:25:16 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:25:16 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:25:16 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:25:16 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:25:16 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:25:17 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 2
+2018-11-06 15:25:58 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15807
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:25:58 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:25:59 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:25:59 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:25:59 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:25:59 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:25:59 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:26:03 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 2
+2018-11-06 15:26:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:26:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:26:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:26:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:26:48 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15929
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:26:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:26:49 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:26:49 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:26:49 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-06 15:26:49 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:26:49 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:26:50 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 2
+2018-11-06 15:27:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:27:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:28:48 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 2
+2018-11-06 15:37:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:37:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:37:19 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11870
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:37:19 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:37:20 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:37:20 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:37:20 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:37:20 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:37:21 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 4
+2018-11-06 15:38:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:38:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:38:52 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:38:52 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:38:55 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 16
+2018-11-06 15:40:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:40:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:40:12 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 16
+2018-11-06 15:40:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:40:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:41:26 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:41:26 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:41:50 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:41:50 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:41:54 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11870
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 15:41:54 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 15:41:55 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 15:41:55 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 15:41:55 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:41:55 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 15:41:56 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 16
+2018-11-06 15:42:41 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:42:41 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:42:45 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 16
+2018-11-06 15:43:17 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 15:43:17 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 15:43:18 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 16
+2018-11-06 16:43:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 16:43:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 16:45:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 16:45:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 16:45:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 16:45:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 16:45:15 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11847
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 16:45:15 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 16:45:16 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 16:45:16 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 16:45:16 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:45:16 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:45:19 [base WARNING] Method Not Allowed (POST): /onlineconfig/nginx/
+2018-11-06 16:45:19 [log WARNING] Method Not Allowed: /onlineconfig/nginx/
+2018-11-06 16:45:19 [basehttp WARNING] "POST /onlineconfig/nginx/ HTTP/1.1" 405 0
+2018-11-06 16:46:35 [base WARNING] Method Not Allowed (POST): /onlineconfig/nginx/
+2018-11-06 16:46:35 [log WARNING] Method Not Allowed: /onlineconfig/nginx/
+2018-11-06 16:46:35 [basehttp WARNING] "POST /onlineconfig/nginx/ HTTP/1.1" 405 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11864
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 16:46:40 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 16:46:40 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 16:46:41 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 16:46:41 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 16:46:41 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:46:41 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:46:42 [log WARNING] Not Found: /onlineconfig/nginx/nginx/create_conf
+2018-11-06 16:46:42 [basehttp WARNING] "POST /onlineconfig/nginx/nginx/create_conf HTTP/1.1" 404 4742
+2018-11-06 16:47:12 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11858
+2018-11-06 16:47:12 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:12 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:12 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:12 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:47:13 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:47:15 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 43, in create_conf
+    receipt = json.dumps({"server":request.POS['root_dir']})
+AttributeError: 'WSGIRequest' object has no attribute 'POS'
+2018-11-06 16:47:15 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 84860
+2018-11-06 16:47:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 16:47:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 16:47:58 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11858
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 16:47:58 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 16:47:58 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 16:47:59 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 16:47:59 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 16:47:59 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:47:59 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 16:48:00 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 17
+2018-11-06 17:06:08 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11858
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:06:09 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11882
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:07:22 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:07:22 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:07:23 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:07:23 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:07:23 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:07:23 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:07:24 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'root_dir'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 43, in create_conf
+    receipt = json.dumps({"server":request.POST['root_dir']})
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'root_dir'
+2018-11-06 17:07:24 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 20193
+2018-11-06 17:09:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:09:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:09:56 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11882
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:09:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:09:56 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:09:57 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:09:57 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:09:57 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:09:57 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:09:58 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 14
+2018-11-06 17:10:22 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:10:22 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:10:25 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11882
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:10:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:10:25 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:10:26 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:10:26 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:10:26 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:10:26 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:10:27 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 43, in create_conf
+    receipt = json.dumps({"server":request})
+  File "/usr/local/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'WSGIRequest' is not JSON serializable
+2018-11-06 17:10:27 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 20305
+2018-11-06 17:13:22 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:13:22 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:13:32 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11882
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:13:32 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:13:33 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:13:33 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:13:33 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:13:33 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:13:34 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 14
+2018-11-06 17:17:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:17:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:17:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:17:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:17:48 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11882
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:17:48 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:17:49 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:17:49 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:17:49 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:17:49 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:17:49 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:17:49 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:17:50 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 14
+2018-11-06 17:18:36 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:18:36 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:18:38 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 2
+2018-11-06 17:19:37 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:19:37 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:19:39 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11882
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:19:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:19:40 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:19:40 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:19:40 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:19:40 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:19:41 [log ERROR] Internal Server Error: /onlineconfig/nginx/create_conf
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'server_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/storage/cmdb/apps/onlineconfig/views/nginx.py", line 43, in create_conf
+    receipt = json.dumps(request.POST['server_name'])
+  File "/storage/py3/lib/python3.6/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'server_name'
+2018-11-06 17:19:41 [basehttp ERROR] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 500 20194
+2018-11-06 17:20:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:20:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:20:17 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:20:17 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:20:33 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11881
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:20:33 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:20:34 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:20:34 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:20:34 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:20:34 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:20:35 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=2gCUegVSvhYtvf8RIiMUUqHciiT0hpRgWoKPj0aTmZE4cpac7YbCoedQ5Mep5d4g&server_name=faf&root_dir=faf&access_log=&error_log= HTTP/1.1" 200 5
+2018-11-06 17:23:27 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11857
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:23:27 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:23:30 [basehttp INFO] "POST /onlineconfig/nginx/create_conf HTTP/1.1" 200 1
+2018-11-06 17:24:13 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11881
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:24:13 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:24:14 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:25:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-06 17:25:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-06 17:25:30 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11881
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-06 17:25:30 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-06 17:25:31 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-06 17:25:31 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-06 17:25:31 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:25:31 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-06 17:25:32 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=7pffDF8Tb3BLK3QGQYPTAXyptlLCoMRC1xnaIpnU2LhmrdS1fEeB4L43gP61cA4C&server_name=faf&root_dir=faf&access_log=&error_log= HTTP/1.1" 200 167
