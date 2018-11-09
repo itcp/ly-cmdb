@@ -22,8 +22,8 @@ class NginxIndexVies(TemplateView):
 @csrf_protect
 def create_conf(request):
     
-    hostip = '192.168.181.133'
-    conf_dir = '/usr/local/src/'
+    hostip = '192.168.181.133'  # 
+    conf_dir = '/usr/local/src/'    # conf 
     if request.is_ajax():
         server_name = request.GET['server_name']
         root_dir = request.GET['root_dir']
