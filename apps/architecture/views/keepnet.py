@@ -32,7 +32,7 @@ class GetKeepIpaddr():
                 #"password": "stu@python",
             },
             {
-                "hostname": "keepalived",
+                "hostname": "keepalived2",
                 "ip": "172.20.100.71",
                 "port": 22,
                 "username": "root",
