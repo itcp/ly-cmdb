@@ -126,6 +126,14 @@
     </ul>
 </li>
 
+<li id="architecture">
+    <a>
+        <i class="fa fa-inbox" style="width: 14px"></i> <span class="nav-label">{% trans 'Architecture' %}</span><span class="fa arrow"></span>
+    </a>
+    <ul class="nav nav-second-level">
+        <li id="keepnet"><a href="{% url 'architecture:keepnet' %}">{% trans 'keepnet' %}</a></li>
+    </ul>
+</li>
 <script>
 $(document).ready(function () {
     var current_org = '{{ CURRENT_ORG.name }}';

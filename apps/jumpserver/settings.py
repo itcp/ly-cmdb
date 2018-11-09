@@ -66,10 +66,13 @@ INSTALLED_APPS = [
     'audits.apps.AuditsConfig',
  #   'onlineconfig.apps.OnlineconfigConfig',
     'onlineconfig',
+    'architecture',
     'rest_framework',
     'rest_framework_swagger',
     'drf_yasg',
     'django_filters',
+
+    
     'bootstrap3',
     'captcha',
     'django_celery_beat',

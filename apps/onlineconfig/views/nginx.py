@@ -15,31 +15,16 @@ import os,sys
 
 from common.utils import get_logger
 
-#__all__ = ['confnginx']
-#logger = get_logger(__name__)
-
 class NginxIndexVies(TemplateView):
-
-        #ctx['server_name'] = request.POST['server_name']
-        #ctx['server_name'] = request.POST['server_name']
-        #ctx['server_name'] = request.POST['server_name']
-
     template_name = "onlineconfig/confnginx.html"
-    #template_name = "onlineconfig/conf_nginx.html"
-"""
 
-def nginx_index(request):
-    return HttpResponse("<p>lh</p>")
-    #return render(request, 'onlineconfig/confnginx.htm')
-"""
+
 @csrf_protect
 def create_conf(request):
     
-    hostip = '192.168.181.130'
+    hostip = '192.168.181.133'
     conf_dir = '/usr/local/src/'
     if request.is_ajax():
-        #receipt = json.dumps(request.GET)
-
         server_name = request.GET['server_name']
         root_dir = request.GET['root_dir']
 
@@ -50,15 +35,15 @@ def create_conf(request):
         update_log = "'sed -i \"s#/home/wwwlogs/benz.huihuang200.com.log#/home/wwwlogs/" + server_name + ".log#g\" " + conf_dir + server_name +".conf'"
         update_errorlog = "'sed -i \"s#/home/wwwlogs/benz.huihuang200.com.error.log#/home/wwwlogs/" + server_name + ".error.log#g\" " + conf_dir + server_name +".conf'"
 
-        os.system('ssh root@192.168.181.130 ' + update_rootdir)
-        os.system('ssh root@192.168.181.130 ' + update_servername)
-        os.system('ssh root@192.168.181.130 ' + update_log)
-        os.system('ssh root@192.168.181.130 ' + update_errorlog)
+        os.system('ssh root@' + hostip + ' ' + update_rootdir)
+        os.system('ssh root@' + hostip + ' ' + update_servername)
+        os.system('ssh root@' + hostip + ' ' + update_log)
+        os.system('ssh root@' + hostip + ' ' + update_errorlog)
+        os.system('nginx -s reload')
 
         receipt = json.dumps({"status": 2, "info": request.GET})
     else:
         receipt = json.dumps(0)
     
-
     return HttpResponse(receipt)
 
