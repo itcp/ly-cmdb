@@ -36,7 +36,15 @@ class GetKeepIpaddr():
                 "ip": "172.20.100.71",
                 "port": 22,
                 "username": "root",
-                 "groups": ["keepalived"],
+                 "groups": ["keepalived_spingboot"],
+                #"password": "stu@python",
+            },
+            {
+                "hostname": "keepalived2",
+                "ip": "172.20.100.71",
+                "port": 22,
+                "username": "root",
+                 "groups": ["keepalived_home"],
                 #"password": "stu@python",
             },
         ]
