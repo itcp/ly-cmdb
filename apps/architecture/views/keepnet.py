@@ -36,17 +36,9 @@ class GetKeepIpaddr():
                 "ip": "172.20.100.71",
                 "port": 22,
                 "username": "root",
-                 "groups": ["keepalived_spingboot"],
+                 "groups": ["keepalived"],
                 #"password": "stu@python",
-            },
-            {
-                "hostname": "keepalived2",
-                "ip": "172.20.100.71",
-                "port": 22,
-                "username": "root",
-                 "groups": ["keepalived_home"],
-                #"password": "stu@python",
-            },
+            }
         ]
         inventory = BaseInventory(host_data)
         runner = AdHocRunner(inventory)
