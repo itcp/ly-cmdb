@@ -1,0 +1,1518 @@
+2018-11-07 18:59:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 18:59:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 18:59:38 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 18:59:38 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:01:05 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:01:05 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:01:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:01:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:01:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:01:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:05:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:05:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:08:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:08:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:09:04 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11881
+2018-11-07 19:09:41 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11569
+2018-11-07 19:09:42 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:09:43 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:09:46 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:09:46 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:09:46 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:09:46 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:10:04 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=MHucTg99ByZ1u9MgCnEAZVqXaetiPTdjGPC7Y0oasgFCbjOB133itJWBXIOHDHqj&server_name=z.cn&root_dir=zcn HTTP/1.1" 200 133
+2018-11-07 19:15:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:15:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:15:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:15:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:16:12 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=MHucTg99ByZ1u9MgCnEAZVqXaetiPTdjGPC7Y0oasgFCbjOB133itJWBXIOHDHqj&server_name=z.cn&root_dir=zcn HTTP/1.1" 200 133
+2018-11-07 19:24:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:24:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:24:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-07 19:24:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-07 19:25:02 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11563
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:25:02 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:25:03 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:25:03 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:25:03 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:25:03 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:25:06 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=dn66BJnbcVyvXqPD8Ftro8CTOduMMKQr7ve1GtCc3De6EARYxlS9SW8xBHPbAy3r&server_name=baidu.com&root_dir=baidu HTTP/1.1" 200 163
+2018-11-07 19:25:28 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11573
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:25:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:25:29 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:25:30 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:25:31 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:25:31 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:25:31 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:25:35 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=AKZAJ2gf9PfeG4IhVriSNHEMvVf5gGepuS7vOMvg0xVPneKCk7HAhvaqipAu4urp&server_name=baidu.com&root_dir=baidu HTTP/1.1" 200 163
+2018-11-07 19:26:56 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11573
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:26:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:26:57 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:26:57 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:26:57 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:26:57 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 11573
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:27:07 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:27:08 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:27:08 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:27:08 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:27:08 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:27:34 [basehttp INFO] "GET /users/user-group/create/ HTTP/1.1" 302 0
+2018-11-07 19:27:34 [basehttp INFO] "GET /users/login/?next=/users/user-group/create/ HTTP/1.1" 200 4001
+2018-11-07 19:27:34 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:27:47 [basehttp INFO] "POST /users/login/?next=/users/user-group/create/ HTTP/1.1" 302 0
+2018-11-07 19:27:47 [basehttp INFO] "GET /users/user-group/create/ HTTP/1.1" 200 15880
+2018-11-07 19:27:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:27:48 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15632
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:40:17 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15667
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:41:05 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:41:10 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=GdeysUmm1Ve0yTfzIiy49IJ5yrKTbjKnRvZpxg6XTt3TA2vymn3GNA0G17zOZKMJ&server_name=baidu.com&root_dir=baidu HTTP/1.1" 200 163
+2018-11-07 19:41:27 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15669
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:41:27 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-07 19:52:45 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=tW7trVqpLh3tgI2YziThDY2vCMja5n4REeSkwha0DPSmiRiXdnoThQj65s85TO6d&server_name=www.huihuang100.com&root_dir=huihuang100.com HTTP/1.1" 200 183
+2018-11-08 16:44:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-08 16:44:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-08 16:44:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-08 16:44:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-08 16:46:05 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4189
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-08 16:46:06 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-08 16:46:15 [basehttp INFO] "POST /users/login/?next=/ HTTP/1.1" 302 0
+2018-11-08 16:46:15 [basehttp INFO] "GET / HTTP/1.1" 200 27414
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 200 18125
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 200 11750
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 200 3984
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 200 4636
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 200 5216
+2018-11-08 16:46:15 [basehttp INFO] "GET /en/jsi18n/ HTTP/1.1" 200 3185
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 200 363230
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 200 5877
+2018-11-08 16:46:15 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 200 5877
+2018-11-08 16:46:16 [basehttp INFO] "GET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+2018-11-08 16:46:16 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 200 12928
+2018-11-08 16:46:16 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 200 12159
+2018-11-08 16:46:28 [basehttp INFO] "GET /static/js/plugins/datatables/pdfmake.min.js.map HTTP/1.1" 200 0
+2018-11-08 16:46:45 [basehttp INFO] "GET /i18n/zh-hans/ HTTP/1.1" 302 0
+2018-11-08 16:46:45 [basehttp INFO] "GET / HTTP/1.1" 200 27354
+2018-11-08 16:46:45 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 16:46:51 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15669
+2018-11-08 16:46:51 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 200 15196
+2018-11-08 16:46:51 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 200 75005
+2018-11-08 16:46:51 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 16:47:24 [basehttp INFO] "GET /assets/domain/ HTTP/1.1" 200 17559
+2018-11-08 16:47:24 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 16:47:24 [basehttp INFO] "GET /api/assets/v1/domain/?_=1541666844372 HTTP/1.1" 200 2
+2018-11-08 16:47:24 [basehttp INFO] "GET /static/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23424
+2018-11-08 17:42:47 [basehttp INFO] "GET /settings/ HTTP/1.1" 200 16784
+2018-11-08 17:42:47 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 17:58:32 [signals_handler DEBUG] Receive setting item change
+2018-11-08 17:58:32 [signals_handler DEBUG]   - refresh setting: SITE_URL
+2018-11-08 17:58:32 [signals_handler DEBUG] Receive setting item change
+2018-11-08 17:58:32 [signals_handler DEBUG]   - refresh setting: USER_GUIDE_URL
+2018-11-08 17:58:32 [signals_handler DEBUG] Receive setting item change
+2018-11-08 17:58:32 [signals_handler DEBUG]   - refresh setting: EMAIL_SUBJECT_PREFIX
+2018-11-08 17:58:32 [basehttp INFO] "POST /settings/ HTTP/1.1" 302 0
+2018-11-08 17:58:32 [basehttp INFO] "GET /settings/ HTTP/1.1" 200 17062
+2018-11-08 17:58:32 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:01:17 [basehttp INFO] "GET /settings/security/ HTTP/1.1" 200 23162
+2018-11-08 18:01:17 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:01:37 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 25548
+2018-11-08 18:01:37 [basehttp INFO] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 15248
+2018-11-08 18:01:37 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:01:38 [basehttp INFO] "GET /api/users/v1/users/?_=1541671298020 HTTP/1.1" 200 551
+2018-11-08 18:01:49 [basehttp INFO] "GET /users/user/create/ HTTP/1.1" 200 18369
+2018-11-08 18:01:49 [basehttp INFO] "GET /static/js/pwstrength-bootstrap.js HTTP/1.1" 200 29322
+2018-11-08 18:01:49 [basehttp INFO] "GET /static/js/plugins/datepicker/bootstrap-datepicker.js HTTP/1.1" 200 46821
+2018-11-08 18:01:49 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:09:44 [basehttp INFO] "GET /users/user-group/ HTTP/1.1" 200 18907
+2018-11-08 18:09:44 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:09:44 [basehttp INFO] "GET /api/users/v1/groups/?_=1541671784229 HTTP/1.1" 200 174
+2018-11-08 18:09:46 [basehttp INFO] "GET /users/user-group/create/ HTTP/1.1" 200 15880
+2018-11-08 18:09:46 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:10:02 [basehttp INFO] "POST /users/user-group/create/ HTTP/1.1" 302 0
+2018-11-08 18:10:02 [basehttp INFO] "GET /users/user-group/ HTTP/1.1" 200 19149
+2018-11-08 18:10:02 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:10:02 [basehttp INFO] "GET /api/users/v1/groups/?_=1541671802398 HTTP/1.1" 200 341
+2018-11-08 18:10:13 [basehttp INFO] "GET /users/user/create/ HTTP/1.1" 200 18438
+2018-11-08 18:10:13 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:10:13 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-08 18:33:01 [signals_handler DEBUG] Receive user `boeving` create signal
+2018-11-08 18:33:01 [signals_handler INFO]    - Sending welcome mail ...
+2018-11-08 18:33:01 [basehttp INFO] "POST /users/user/create/ HTTP/1.1" 302 0
+2018-11-08 18:33:01 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 25794
+2018-11-08 18:33:01 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:33:01 [basehttp INFO] "GET /api/users/v1/users/?_=1541673181308 HTTP/1.1" 200 1078
+2018-11-08 18:36:56 [basehttp INFO] "GET /assets/asset/ HTTP/1.1" 200 43517
+2018-11-08 18:36:57 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:36:57 [basehttp INFO] "GET /static/css/plugins/ztree/awesomeStyle/awesome.css HTTP/1.1" 200 8980
+2018-11-08 18:36:57 [basehttp INFO] "GET /static/js/plugins/ztree/jquery.ztree.all.min.js HTTP/1.1" 200 64421
+2018-11-08 18:36:57 [basehttp INFO] "GET /api/assets/v1/assets/?show_current_asset=1&draw=1&search=&limit=10&offset=0&_=1541673417087 HTTP/1.1" 200 52
+2018-11-08 18:36:57 [basehttp INFO] "GET /api/assets/v1/nodes/ HTTP/1.1" 200 148
+2018-11-08 18:36:57 [basehttp INFO] "GET /api/assets/v1/assets/?draw=1&search=&limit=15&offset=0&_=1541673417088 HTTP/1.1" 200 52
+2018-11-08 18:36:57 [basehttp INFO] "GET /api/assets/v1/nodes/ HTTP/1.1" 200 148
+2018-11-08 18:36:58 [basehttp INFO] "GET /assets/asset/create/ HTTP/1.1" 200 19248
+2018-11-08 18:36:58 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:37:03 [basehttp INFO] "GET /api/assets/v1/assets/?show_current_asset=1&draw=1&search=&limit=10&offset=0&_=1541673423505 HTTP/1.1" 200 52
+2018-11-08 18:37:03 [basehttp INFO] "GET /api/assets/v1/assets/?draw=1&search=&limit=15&offset=0&_=1541673423506 HTTP/1.1" 200 52
+2018-11-08 18:37:06 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c92054a0-8209-4bd2-8754-925effdb1a83&show_current_asset=null&draw=2&search=&limit=15&offset=0&_=1541673423507 HTTP/1.1" 200 52
+2018-11-08 18:37:07 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c92054a0-8209-4bd2-8754-925effdb1a83&show_current_asset=null&draw=3&search=&limit=15&offset=0&_=1541673423508 HTTP/1.1" 200 52
+2018-11-08 18:37:09 [basehttp INFO] "POST /api/assets/v1/nodes/c92054a0-8209-4bd2-8754-925effdb1a83/children/ HTTP/1.1" 201 79
+2018-11-08 18:37:10 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c319e390-3958-4b69-a22e-8ea037d9e6f7&show_current_asset=null&draw=4&search=&limit=15&offset=0&_=1541673423509 HTTP/1.1" 200 52
+2018-11-08 18:37:13 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c319e390-3958-4b69-a22e-8ea037d9e6f7&show_current_asset=null&draw=5&search=&limit=15&offset=0&_=1541673423510 HTTP/1.1" 200 52
+2018-11-08 18:37:19 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c319e390-3958-4b69-a22e-8ea037d9e6f7&show_current_asset=null&draw=6&search=&limit=15&offset=0&_=1541673423511 HTTP/1.1" 200 52
+2018-11-08 18:37:19 [basehttp INFO] "PATCH /api/assets/v1/nodes/c319e390-3958-4b69-a22e-8ea037d9e6f7/ HTTP/1.1" 200 152
+2018-11-08 18:37:20 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c92054a0-8209-4bd2-8754-925effdb1a83&show_current_asset=null&draw=7&search=&limit=15&offset=0&_=1541673423512 HTTP/1.1" 200 52
+2018-11-08 18:37:20 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c92054a0-8209-4bd2-8754-925effdb1a83&show_current_asset=null&draw=8&search=&limit=15&offset=0&_=1541673423513 HTTP/1.1" 200 52
+2018-11-08 18:37:21 [basehttp INFO] "POST /api/assets/v1/nodes/c92054a0-8209-4bd2-8754-925effdb1a83/children/ HTTP/1.1" 201 79
+2018-11-08 18:37:25 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=787d4ab3-190d-4b0a-b4a1-2f553626910c&show_current_asset=null&draw=9&search=&limit=15&offset=0&_=1541673423514 HTTP/1.1" 200 52
+2018-11-08 18:37:25 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=787d4ab3-190d-4b0a-b4a1-2f553626910c&show_current_asset=null&draw=10&search=&limit=15&offset=0&_=1541673423515 HTTP/1.1" 200 52
+2018-11-08 18:37:26 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=787d4ab3-190d-4b0a-b4a1-2f553626910c&show_current_asset=null&draw=11&search=&limit=15&offset=0&_=1541673423516 HTTP/1.1" 200 52
+2018-11-08 18:37:32 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=787d4ab3-190d-4b0a-b4a1-2f553626910c&show_current_asset=null&draw=12&search=&limit=15&offset=0&_=1541673423517 HTTP/1.1" 200 52
+2018-11-08 18:37:32 [basehttp INFO] "PATCH /api/assets/v1/nodes/787d4ab3-190d-4b0a-b4a1-2f553626910c/ HTTP/1.1" 200 154
+2018-11-08 18:38:22 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c319e390-3958-4b69-a22e-8ea037d9e6f7&show_current_asset=null&draw=13&search=&limit=15&offset=0&_=1541673423518 HTTP/1.1" 200 52
+2018-11-08 18:38:22 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=c319e390-3958-4b69-a22e-8ea037d9e6f7&show_current_asset=null&draw=14&search=&limit=15&offset=0&_=1541673423519 HTTP/1.1" 200 52
+2018-11-08 18:38:26 [basehttp INFO] "POST /api/assets/v1/nodes/c319e390-3958-4b69-a22e-8ea037d9e6f7/children/ HTTP/1.1" 201 81
+2018-11-08 18:38:27 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6&show_current_asset=null&draw=15&search=&limit=15&offset=0&_=1541673423520 HTTP/1.1" 200 52
+2018-11-08 18:38:28 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6&show_current_asset=null&draw=16&search=&limit=15&offset=0&_=1541673423521 HTTP/1.1" 200 52
+2018-11-08 18:38:29 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6&show_current_asset=null&draw=17&search=&limit=15&offset=0&_=1541673423522 HTTP/1.1" 200 52
+2018-11-08 18:38:34 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6&show_current_asset=null&draw=18&search=&limit=15&offset=0&_=1541673423523 HTTP/1.1" 200 52
+2018-11-08 18:38:34 [basehttp INFO] "PATCH /api/assets/v1/nodes/d3b52190-c062-4ea4-8335-c2ef367fc5f6/ HTTP/1.1" 200 157
+2018-11-08 18:38:40 [basehttp INFO] "GET /assets/asset/create/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6 HTTP/1.1" 200 19491
+2018-11-08 18:38:40 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:54:53 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 25548
+2018-11-08 18:54:53 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:54:54 [basehttp INFO] "GET /api/users/v1/users/?_=1541674493534 HTTP/1.1" 200 1078
+2018-11-08 18:54:55 [basehttp INFO] "GET /users/user/6fb6e333-c9de-4a6c-bf84-32ae6000a4bd/ HTTP/1.1" 200 34681
+2018-11-08 18:54:55 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:56:37 [basehttp INFO] "GET /assets/admin-user/ HTTP/1.1" 200 19163
+2018-11-08 18:56:37 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:56:38 [basehttp INFO] "GET /api/assets/v1/admin-user/?_=1541674598007 HTTP/1.1" 200 2
+2018-11-08 18:56:39 [basehttp INFO] "GET /assets/admin-user/create/ HTTP/1.1" 200 15569
+2018-11-08 18:56:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:56:56 [basehttp INFO] "POST /assets/admin-user/create/ HTTP/1.1" 302 0
+2018-11-08 18:56:56 [basehttp INFO] "GET /assets/admin-user/ HTTP/1.1" 200 19409
+2018-11-08 18:56:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:56:56 [basehttp INFO] "GET /api/assets/v1/admin-user/?_=1541674616711 HTTP/1.1" 200 345
+2018-11-08 18:58:04 [basehttp INFO] "GET /assets/admin-user/1be0b88b-a782-4a90-a075-e2eb2e0a047b/ HTTP/1.1" 200 20727
+2018-11-08 18:58:04 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:58:07 [basehttp INFO] "GET /assets/admin-user/1be0b88b-a782-4a90-a075-e2eb2e0a047b/assets/ HTTP/1.1" 200 18168
+2018-11-08 18:58:08 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:58:08 [basehttp INFO] "GET /api/assets/v1/assets/?admin_user_id=1be0b88b-a782-4a90-a075-e2eb2e0a047b&draw=1&search=&limit=15&offset=0&_=1541674688086 HTTP/1.1" 200 52
+2018-11-08 18:58:09 [basehttp INFO] "GET /assets/admin-user/1be0b88b-a782-4a90-a075-e2eb2e0a047b/ HTTP/1.1" 200 20727
+2018-11-08 18:58:09 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:58:11 [basehttp INFO] "GET /api/assets/v1/assets/?admin_user_id=1be0b88b-a782-4a90-a075-e2eb2e0a047b&draw=1&search=&limit=15&offset=0&_=1541674690987 HTTP/1.1" 200 52
+2018-11-08 18:58:13 [basehttp INFO] "GET /assets/admin-user/ HTTP/1.1" 200 19163
+2018-11-08 18:58:13 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:58:13 [basehttp INFO] "GET /api/assets/v1/admin-user/?_=1541674693452 HTTP/1.1" 200 345
+2018-11-08 18:58:15 [basehttp INFO] "GET /assets/admin-user/1be0b88b-a782-4a90-a075-e2eb2e0a047b/update/ HTTP/1.1" 200 15601
+2018-11-08 18:58:15 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:58:34 [basehttp INFO] "POST /assets/admin-user/1be0b88b-a782-4a90-a075-e2eb2e0a047b/update/ HTTP/1.1" 302 0
+2018-11-08 18:58:34 [basehttp INFO] "GET /assets/admin-user/ HTTP/1.1" 200 19415
+2018-11-08 18:58:34 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 18:58:34 [basehttp INFO] "GET /api/assets/v1/admin-user/?_=1541674714211 HTTP/1.1" 200 348
+2018-11-08 18:59:59 [basehttp INFO] "GET /assets/system-user/ HTTP/1.1" 200 21498
+2018-11-08 18:59:59 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:00:00 [basehttp INFO] "GET /api/assets/v1/system-user/?_=1541674800041 HTTP/1.1" 200 2
+2018-11-08 19:00:01 [basehttp INFO] "GET /assets/system-user/create/ HTTP/1.1" 200 21786
+2018-11-08 19:00:01 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:04:40 [user INFO] Auto generate key and set system user auth
+2018-11-08 19:04:41 [signals_handler INFO] System user `virt-192-itcp(itcp)` update signal received
+2018-11-08 19:04:41 [basehttp INFO] "POST /assets/system-user/create/ HTTP/1.1" 302 0
+2018-11-08 19:04:41 [basehttp INFO] "GET /assets/system-user/ HTTP/1.1" 200 21750
+2018-11-08 19:04:41 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:04:41 [basehttp INFO] "GET /api/assets/v1/system-user/?_=1541675081300 HTTP/1.1" 200 525
+2018-11-08 19:06:56 [basehttp INFO] "GET /assets/asset/ HTTP/1.1" 200 43517
+2018-11-08 19:06:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:06:56 [basehttp INFO] "GET /api/assets/v1/assets/?show_current_asset=1&draw=1&search=&limit=10&offset=0&_=1541675216598 HTTP/1.1" 200 52
+2018-11-08 19:06:56 [basehttp INFO] "GET /api/assets/v1/nodes/ HTTP/1.1" 200 614
+2018-11-08 19:06:56 [basehttp INFO] "GET /api/assets/v1/assets/?draw=1&search=&limit=15&offset=0&_=1541675216599 HTTP/1.1" 200 52
+2018-11-08 19:06:56 [basehttp INFO] "GET /api/assets/v1/nodes/ HTTP/1.1" 200 614
+2018-11-08 19:06:57 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6&show_current_asset=null&draw=2&search=&limit=15&offset=0&_=1541675216600 HTTP/1.1" 200 52
+2018-11-08 19:07:00 [basehttp INFO] "GET /assets/asset/create/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6 HTTP/1.1" 200 19570
+2018-11-08 19:07:01 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:07:55 [basehttp INFO] "GET /assets/admin-user/ HTTP/1.1" 200 19163
+2018-11-08 19:07:55 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:07:56 [basehttp INFO] "GET /api/assets/v1/admin-user/?_=1541675275876 HTTP/1.1" 200 348
+2018-11-08 19:08:14 [signals_handler INFO] Asset `centos7_node1(192.168.181.130)` create signal received
+2018-11-08 19:08:14 [signals_handler DEBUG] Update asset `centos7_node1(192.168.181.130)` hardware info
+2018-11-08 19:08:14 [signals_handler DEBUG] Test asset `centos7_node1(192.168.181.130)` connectability
+2018-11-08 19:08:14 [signals_handler DEBUG] Asset node change signal received
+2018-11-08 19:08:14 [basehttp INFO] "POST /assets/asset/create/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6 HTTP/1.1" 302 0
+2018-11-08 19:08:14 [basehttp INFO] "GET /assets/asset/ HTTP/1.1" 200 43769
+2018-11-08 19:08:14 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:08:15 [basehttp INFO] "GET /api/assets/v1/nodes/ HTTP/1.1" 200 614
+2018-11-08 19:08:15 [basehttp INFO] "GET /api/assets/v1/assets/?show_current_asset=1&draw=1&search=&limit=10&offset=0&_=1541675294466 HTTP/1.1" 200 744
+2018-11-08 19:08:15 [basehttp INFO] "GET /api/assets/v1/assets/?draw=1&search=&limit=15&offset=0&_=1541675294467 HTTP/1.1" 200 744
+2018-11-08 19:08:15 [basehttp INFO] "GET /api/assets/v1/nodes/ HTTP/1.1" 200 614
+2018-11-08 19:08:15 [basehttp INFO] "GET /api/assets/v1/assets/?node_id=d3b52190-c062-4ea4-8335-c2ef367fc5f6&show_current_asset=null&draw=2&search=&limit=15&offset=0&_=1541675294468 HTTP/1.1" 200 744
+2018-11-08 19:09:02 [basehttp INFO] "GET /assets/asset/9bf62e52-e7bf-44ed-94c3-462add740778/ HTTP/1.1" 200 30558
+2018-11-08 19:09:02 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 19:09:06 [basehttp INFO] "GET /api/assets/v1/assets/9bf62e52-e7bf-44ed-94c3-462add740778/alive/ HTTP/1.1" 200 47
+2018-11-08 23:55:28 [basehttp INFO] "GET /assets/domain/ HTTP/1.1" 200 17559
+2018-11-08 23:55:28 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:55:28 [basehttp INFO] "GET /api/assets/v1/domain/?_=1541692528185 HTTP/1.1" 200 2
+2018-11-08 23:55:30 [basehttp INFO] "GET /assets/admin-user/ HTTP/1.1" 200 19163
+2018-11-08 23:55:31 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:55:31 [basehttp INFO] "GET /api/assets/v1/admin-user/?_=1541692531050 HTTP/1.1" 200 348
+2018-11-08 23:55:37 [basehttp INFO] "GET /assets/cmd-filter/ HTTP/1.1" 200 18329
+2018-11-08 23:55:37 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:55:37 [basehttp INFO] "GET /api/assets/v1/cmd-filter/?_=1541692537340 HTTP/1.1" 200 2
+2018-11-08 23:55:40 [basehttp INFO] "GET /assets/label/ HTTP/1.1" 200 16783
+2018-11-08 23:55:40 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:55:41 [basehttp INFO] "GET /api/assets/v1/labels/?sort=name&_=1541692540961 HTTP/1.1" 200 2
+2018-11-08 23:56:38 [basehttp INFO] "GET /terminal/session-online/ HTTP/1.1" 200 20432
+2018-11-08 23:56:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:56:38 [basehttp INFO] "GET /static/css/plugins/datepicker/datepicker3.css HTTP/1.1" 200 33679
+2018-11-08 23:56:43 [basehttp INFO] "GET /terminal/web-terminal/ HTTP/1.1" 302 0
+2018-11-08 23:56:43 [basehttp INFO] "GET /luna/? HTTP/1.1" 200 205
+2018-11-08 23:56:43 [log WARNING] Not Found: /favicon.ico
+2018-11-08 23:56:43 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4402
+2018-11-08 23:57:05 [basehttp INFO] "GET /terminal/web-sftp/ HTTP/1.1" 302 0
+2018-11-08 23:57:05 [log WARNING] Not Found: /coco/elfinder/sftp/
+2018-11-08 23:57:05 [basehttp WARNING] "GET /coco/elfinder/sftp/? HTTP/1.1" 404 4426
+2018-11-08 23:57:12 [basehttp INFO] "GET /terminal/terminal/ HTTP/1.1" 200 23040
+2018-11-08 23:57:12 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:57:12 [basehttp INFO] "GET /api/terminal/v1/terminal/?_=1541692632253 HTTP/1.1" 200 212
+2018-11-08 23:57:28 [basehttp INFO] "GET /terminal/terminal/5edebe62-91cd-4c09-a904-95b63afc7b05/ HTTP/1.1" 200 15732
+2018-11-08 23:57:28 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:57:42 [basehttp INFO] "GET /ops/task/ HTTP/1.1" 200 20259
+2018-11-08 23:57:42 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:58:01 [basehttp INFO] "GET /perms/asset-permission/ HTTP/1.1" 200 23341
+2018-11-08 23:58:01 [basehttp INFO] "GET /static/css/plugins/footable/footable.core.css HTTP/1.1" 200 5460
+2018-11-08 23:58:01 [basehttp INFO] "GET /static/css/plugins/jstree/style.min.css HTTP/1.1" 200 25605
+2018-11-08 23:58:01 [basehttp INFO] "GET /static/js/plugins/footable/footable.all.min.js HTTP/1.1" 200 37082
+2018-11-08 23:58:01 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-08 23:58:01 [basehttp INFO] "GET /api/perms/v1/asset-permissions/?_=1541692681221 HTTP/1.1" 200 2
+2018-11-08 23:58:01 [basehttp INFO] "GET /api/assets/v1/nodes/children/?assets=1 HTTP/1.1" 200 456
+2018-11-09 01:25:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:25:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:28:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:28:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:33:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:33:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:34:37 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:34:37 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:35:22 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:35:22 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:35:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:35:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:35:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:35:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:36:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:36:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:37:16 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:37:16 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:39:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:39:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:44:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:44:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:46:26 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:46:26 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 01:46:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 01:46:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 02:46:29 [basehttp INFO] "GET /perms/asset-permission/ HTTP/1.1" 200 23628
+2018-11-09 02:46:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 02:46:30 [basehttp INFO] "GET /api/perms/v1/asset-permissions/?_=1541702789626 HTTP/1.1" 200 2
+2018-11-09 02:46:30 [basehttp INFO] "GET /api/assets/v1/nodes/children/?assets=1 HTTP/1.1" 200 456
+2018-11-09 02:46:30 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-09 02:46:33 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15956
+2018-11-09 02:46:33 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 02:49:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 02:49:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 02:50:15 [basehttp INFO] "GET / HTTP/1.1" 200 27645
+2018-11-09 02:50:15 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 02:50:19 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14353
+2018-11-09 02:50:20 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 03:08:37 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 03:08:37 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:32:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:32:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:33:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:33:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:33:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:33:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:33:48 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:33:48 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:34:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:34:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:34:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:34:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:40:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:40:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:42:37 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:42:37 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:42:49 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 304 0
+2018-11-09 14:42:50 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-09 14:42:52 [log WARNING] Not Found: /architecture/keepnet/get_keep
+2018-11-09 14:42:52 [basehttp WARNING] "GET /architecture/keepnet/get_keep?keep=get HTTP/1.1" 404 4835
+2018-11-09 14:43:07 [basehttp INFO] "GET /static/js/plugins/datatables/pdfmake.min.js.map HTTP/1.1" 304 0
+2018-11-09 14:43:13 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-09 14:43:13 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 14:43:15 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-09 14:43:16 [log WARNING] Not Found: /architecture/keepnet/get_keep
+2018-11-09 14:43:16 [basehttp WARNING] "GET /architecture/keepnet/get_keep?keep=get HTTP/1.1" 404 4835
+2018-11-09 14:44:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:44:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:44:19 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-09 14:44:19 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 14:44:20 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-09 14:44:21 [basehttp INFO] "GET /architecture/keepnet/get_keep?keep=get HTTP/1.1" 301 0
+2018-11-09 14:44:26 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 24
+2018-11-09 14:45:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:45:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:54:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-09 14:54:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-09 14:54:17 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-09 14:54:17 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-09 14:54:19 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/storage/py3/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 17, in get_keep
+    receipt = json.dumps({"status": 2, "info": keepinfo})
+  File "/usr/local/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type '_wrap_close' is not JSON serializable
+2018-11-09 14:54:19 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 20319
+2018-11-10 00:40:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 00:40:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 00:40:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 00:40:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 00:43:38 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-11-10 00:43:38 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4001
+2018-11-10 00:43:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 00:43:44 [basehttp INFO] "POST /users/login/?next=/ HTTP/1.1" 302 0
+2018-11-10 00:43:44 [basehttp INFO] "GET / HTTP/1.1" 200 27645
+2018-11-10 00:43:44 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 00:43:44 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 304 0
+2018-11-10 00:43:45 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
+2018-11-10 00:43:45 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 304 0
+2018-11-10 00:43:58 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 00:43:58 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 00:44:25 [basehttp INFO] "GET /architecture/keepnet/get_keep?keep=get HTTP/1.1" 301 0
+2018-11-10 00:44:28 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 24
+2018-11-10 01:01:25 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:01:25 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:03:00 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:03:00 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:03:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:03:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:03:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:03:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:04:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:04:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:05:18 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:05:18 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:05:26 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:05:26 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:06:36 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:06:36 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:07:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:07:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:10:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:10:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:11:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:11:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:14:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:14:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:16:16 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:16:16 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:19:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:19:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:20:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:20:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:22:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:22:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:23:18 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:23:18 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:25:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:25:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:26:09 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:26:09 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:28:16 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:28:16 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:28:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:28:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:29:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:29:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:30:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:30:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:30:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:30:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:31:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:31:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:32:08 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:32:08 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:34:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:34:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:34:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:34:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:38:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:38:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:38:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:38:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:39:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:39:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:40:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:40:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:41:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:41:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:42:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:42:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:43:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:43:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:46:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:46:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:48:53 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:48:53 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:49:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:49:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:49:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:49:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:50:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:50:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:51:15 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:51:15 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:52:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:52:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:53:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:53:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:54:41 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:54:41 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:57:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:57:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:57:38 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:57:38 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:58:07 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:58:07 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:58:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:58:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 01:59:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 01:59:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:03:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:03:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:04:52 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:04:52 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:08:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:08:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:08:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:08:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:18:31 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:18:31 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:24:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:24:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:25:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:25:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:25:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:25:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:25:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:25:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:26:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:26:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:27:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:27:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:27:07 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:27:07 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:28:06 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:28:06 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:28:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:28:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:29:17 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:29:17 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:29:40 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:29:40 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:29:45 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:29:45 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:30:16 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:30:16 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:31:56 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:31:56 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:33:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:33:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:33:53 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:33:53 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:35:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:35:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:36:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:36:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:38:51 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:38:51 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:39:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:39:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:39:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:39:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:40:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:40:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:40:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:40:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:41:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:41:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:41:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:41:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:42:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:42:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:42:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:42:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:46:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:46:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:47:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:47:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:49:09 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:49:09 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:50:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:50:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:52:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:52:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:53:16 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:53:16 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:57:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:57:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:57:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:57:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:57:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:57:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:58:03 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:58:03 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:59:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:59:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:59:31 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:59:31 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 02:59:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 02:59:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:00:05 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:00:05 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:00:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:00:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:00:48 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:00:48 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:00:52 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:00:52 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:02:29 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:02:29 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:02:41 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:02:41 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:03:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:03:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:05:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:05:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:05:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:05:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:05:50 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:05:50 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:06:12 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:06:12 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:06:18 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:06:18 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:06:19 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:06:20 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 73, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 54, in test_run
+    for x,y in ret.results_raw["ok"].items():
+NameError: name 'ret' is not defined
+2018-11-10 03:06:20 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19813
+2018-11-10 03:10:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:10:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:10:25 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:10:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:10:26 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:10:27 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 73, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr})
+  File "/usr/local/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'TestAdHocRunner' is not JSON serializable
+2018-11-10 03:10:27 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 20185
+2018-11-10 03:11:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:11:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:11:39 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:11:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:11:40 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:11:41 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 137, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view architecture.views.keepnet.get_keep didn't return an HttpResponse object. It returned None instead.
+2018-11-10 03:11:41 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19414
+2018-11-10 03:11:59 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:11:59 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:13:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:13:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:13:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:13:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:13:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:13:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:14:11 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:14:11 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:14:12 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:14:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:14:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:15:08 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:15:08 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:15:38 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:15:38 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:15:43 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:15:43 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:16:02 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:16:02 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:16:23 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:16:23 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:16:24 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:16:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:16:25 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:16:26 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 79, in get_keep
+    getIpaddr = unittest()
+TypeError: 'module' object is not callable
+2018-11-10 03:16:26 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19657
+2018-11-10 03:16:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:16:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:16:52 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:16:52 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:16:53 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:16:54 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 59
+2018-11-10 03:17:26 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:17:26 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:17:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:17:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:17:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:17:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:17:58 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:17:58 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:17:58 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:17:59 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 83, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr})
+UnboundLocalError: local variable 'getIpaddr' referenced before assignment
+2018-11-10 03:17:59 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19753
+2018-11-10 03:22:28 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:22:28 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:23:17 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:23:17 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:23:22 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:23:22 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:23:22 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:23:23 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 84, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 62, in test_run
+    for x,y in ret.results_raw["ok"].items():
+NameError: name 'ret' is not defined
+2018-11-10 03:23:23 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19813
+2018-11-10 03:29:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:29:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:29:19 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:29:19 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:29:19 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:29:20 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 84, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 62, in test_run
+    for x,y in results_raw["ok"].items():
+NameError: name 'results_raw' is not defined
+2018-11-10 03:29:20 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19825
+2018-11-10 03:29:54 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:29:54 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:29:56 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:29:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:29:57 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:29:57 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 27
+2018-11-10 03:30:09 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 27
+2018-11-10 03:31:37 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:31:37 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:31:42 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:31:42 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:31:42 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:31:43 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 86, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 61, in test_run
+    ret = self.runner.run(tasks, "all")
+AttributeError: 'TestAdHocRunner' object has no attribute 'runner'
+2018-11-10 03:31:43 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19867
+2018-11-10 03:35:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:35:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:35:32 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:35:32 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:35:33 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:35:34 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 86, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 61, in test_run
+    ret = self.run(tasks, "all")
+AttributeError: 'TestAdHocRunner' object has no attribute 'run'
+2018-11-10 03:35:34 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19854
+2018-11-10 03:38:00 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:38:00 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:38:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:38:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:38:28 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:38:28 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:38:28 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:38:29 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 86, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 61, in test_run
+    ret = runner.run(tasks, "all")
+NameError: name 'runner' is not defined
+2018-11-10 03:38:29 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19808
+2018-11-10 03:40:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:40:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:40:18 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:40:18 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:40:19 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:40:20 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 86, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.test_run()})
+AttributeError: 'TestAdHocRunner' object has no attribute 'test_run'
+2018-11-10 03:40:20 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19752
+2018-11-10 03:41:08 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:41:08 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:41:10 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14910
+2018-11-10 03:41:10 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:41:11 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:41:15 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 621
+2018-11-10 03:42:19 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:42:19 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:42:31 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:42:31 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:42:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:42:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:42:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:42:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:42:55 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:42:55 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:45:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:45:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:45:40 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:45:40 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:45:47 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:45:47 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:47:38 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14868
+2018-11-10 03:47:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 03:47:38 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 03:47:42 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 621
+2018-11-10 03:56:33 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:56:33 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 03:56:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 03:56:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:12:16 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:12:16 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:13:49 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:13:49 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:14:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:14:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:15:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:15:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:21:14 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:21:14 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:21:42 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:21:42 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:25:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:25:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:25:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:25:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:26:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:26:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:29:05 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:29:05 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:29:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:29:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:30:05 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:30:05 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:30:21 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:30:21 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:30:30 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14868
+2018-11-10 04:30:30 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 04:30:30 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 04:30:33 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 66, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 59, in setUp
+    keepIpList.append = [y['ip_addr']['stdout'].split('\n')[-1], y['ip_addr']['stdout']]
+AttributeError: 'list' object attribute 'append' is read-only
+2018-11-10 04:30:33 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19908
+2018-11-10 04:31:11 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:31:11 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:31:16 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14868
+2018-11-10 04:31:16 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 04:31:17 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 04:31:20 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 66, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 59, in setUp
+    keepIpList.append = [y['ip_addr']['stdout'], y['ip_addr']['stdout']]
+AttributeError: 'list' object attribute 'append' is read-only
+2018-11-10 04:31:20 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19892
+2018-11-10 04:32:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:32:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:34:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:34:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:36:10 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 04:36:10 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 04:36:15 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14868
+2018-11-10 04:36:15 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 04:36:15 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 04:36:22 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 3565
+2018-11-10 04:43:48 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14920
+2018-11-10 04:43:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 04:43:49 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:06:25 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 14974
+2018-11-10 05:06:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:06:25 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:10:37 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15036
+2018-11-10 05:10:37 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:10:38 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:10:48 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15036
+2018-11-10 05:10:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:10:48 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:11:38 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15040
+2018-11-10 05:11:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:11:38 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:12:22 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15040
+2018-11-10 05:12:22 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:12:23 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:13:35 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15041
+2018-11-10 05:13:35 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:13:36 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:17:09 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15127
+2018-11-10 05:17:09 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:17:09 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:18:12 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15141
+2018-11-10 05:18:12 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:18:13 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:19:19 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15139
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-10 05:19:19 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:19:20 [basehttp INFO] "GET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 304 0
+2018-11-10 05:19:20 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-10 05:19:20 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-10 05:19:20 [basehttp INFO] "GET /static/js/plugins/datatables/pdfmake.min.js.map HTTP/1.1" 304 0
+2018-11-10 05:19:20 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:19:22 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 3565
+2018-11-10 05:21:03 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15141
+2018-11-10 05:21:03 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:21:03 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:21:06 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 3565
+2018-11-10 05:23:03 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15157
+2018-11-10 05:23:03 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:23:03 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:23:06 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 3565
+2018-11-10 05:24:02 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:24:02 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:26:13 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:26:13 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:26:19 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:26:19 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:26:21 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:26:21 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:26:22 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:26:25 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 66, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 54, in setUp
+    if re.search('Sending gratuitous ARP', y['keepalived_ip']['stdout'].split('\n')[-1]):
+KeyError: 'keepalived_ip'
+2018-11-10 05:26:25 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19833
+2018-11-10 05:26:48 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:26:48 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:26:49 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:26:49 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:26:50 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:26:53 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 66, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 55, in setUp
+    keepIpList.append = [y['keepalived_ip']['stdout'].split('\n')[-1], y['ip_addr']['stdout'].split('2: eth0')[-1].split('scope global noprefixroute')]
+AttributeError: 'list' object attribute 'append' is read-only
+2018-11-10 05:26:53 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19971
+2018-11-10 05:27:39 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:27:39 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:27:46 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:27:46 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:27:53 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:27:53 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:27:56 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:27:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:27:56 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:28:02 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 603
+2018-11-10 05:29:59 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:29:59 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:30:35 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:30:35 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:30:38 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:30:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:30:38 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:30:41 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 490
+2018-11-10 05:34:52 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:34:52 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:34:54 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:34:54 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:34:54 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:34:57 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 69, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 57, in setUp
+    y['ip_addr']['stdout'].split('2: eth0')[-1].split['\n'].split('scope global noprefixroute')]
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2018-11-10 05:34:57 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19932
+2018-11-10 05:35:05 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 69, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 57, in setUp
+    y['ip_addr']['stdout'].split('2: eth0')[-1].split['\n'].split('scope global noprefixroute')]
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2018-11-10 05:35:05 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19932
+2018-11-10 05:45:59 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:45:59 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:46:05 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:46:05 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:46:06 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:46:09 [log ERROR] Internal Server Error: /architecture/keepnet/get_keep/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 69, in get_keep
+    receipt = json.dumps({"status": 2, "info": getIpaddr.setUp()})
+  File "/storage/cmdb/apps/architecture/views/keepnet.py", line 57, in setUp
+    y['ip_addr']['stdout'].split('2: eth0')[-1].split('scope global noprefixroute').replace("\n", "<br/>")]
+AttributeError: 'list' object has no attribute 'replace'
+2018-11-10 05:46:09 [basehttp ERROR] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 500 19921
+2018-11-10 05:49:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:49:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:49:02 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:49:02 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:49:03 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:49:06 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 302
+2018-11-10 05:49:36 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:49:36 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:49:37 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:49:37 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:49:38 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:49:39 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:49:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:49:40 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:49:43 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 415
+2018-11-10 05:50:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:50:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:50:26 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:50:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:50:27 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:50:30 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 415
+2018-11-10 05:51:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:51:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:51:22 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15065
+2018-11-10 05:51:23 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:51:23 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:51:26 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 644
+2018-11-10 05:52:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:52:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:53:35 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15030
+2018-11-10 05:53:35 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:53:36 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:53:41 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 644
+2018-11-10 05:55:01 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:55:01 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:55:04 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15030
+2018-11-10 05:55:05 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:55:05 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:55:11 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 651
+2018-11-10 05:55:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:55:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:55:38 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15030
+2018-11-10 05:55:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:55:39 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:55:43 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 05:56:57 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:56:57 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:58:34 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:58:34 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:58:38 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:58:38 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:58:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 05:58:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 05:59:04 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15030
+2018-11-10 05:59:04 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 05:59:04 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 05:59:11 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 06:00:47 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15011
+2018-11-10 06:00:47 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 06:00:47 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 06:00:53 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 06:00:58 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 06:02:01 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15069
+2018-11-10 06:02:01 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 06:02:01 [basehttp INFO] "GET /static/img/facio.ico HTTP/1.1" 200 1744
+2018-11-10 06:02:07 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 06:02:12 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 06:02:18 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 06:02:44 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:02:44 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:06:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:06:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:06:41 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:06:41 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:06:58 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:06:58 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:07:40 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:07:40 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:08:38 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15960
+2018-11-10 06:08:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 06:09:30 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:09:30 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:09:57 [basehttp INFO] "GET /onlineconfig/nginx/create_conf?csrfmiddlewaretoken=BzXXyb4ZxN00XddZBaJQ9SfAg4jpJmBqrRFgKFpMgolDl2yDgEiESsl9w6Fw1HYc&server_name=itcp.cn&root_dir=itcp.cn HTTP/1.1" 200 163
+2018-11-10 06:10:51 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:10:51 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:11:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:11:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:11:31 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:11:31 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:22:04 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:22:04 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 06:36:24 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 06:36:24 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 07:04:27 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 07:04:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 07:04:35 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 14:10:33 [basehttp INFO] "GET / HTTP/1.1" 200 27653
+2018-11-10 14:10:33 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:12:59 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 14:12:59 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:13:05 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 656
+2018-11-10 14:13:49 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 916
+2018-11-10 14:13:56 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 14:13:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:15:25 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 14:15:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:15:30 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 916
+2018-11-10 14:15:53 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 14:15:53 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:15:58 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 916
+2018-11-10 14:17:31 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 14:17:31 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 14:18:53 [basehttp INFO] "GET /onlineconfig/nginx/ HTTP/1.1" 200 15968
+2018-11-10 14:18:53 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:18:56 [basehttp INFO] "GET /settings/ HTTP/1.1" 200 17101
+2018-11-10 14:18:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:18:57 [basehttp INFO] "GET /audits/login-log/ HTTP/1.1" 200 21399
+2018-11-10 14:18:57 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:18:57 [basehttp INFO] "GET /static/js/plugins/datepicker/bootstrap-datepicker.js HTTP/1.1" 304 0
+2018-11-10 14:18:57 [basehttp INFO] "GET /static/css/plugins/datepicker/datepicker3.css HTTP/1.1" 304 0
+2018-11-10 14:18:58 [basehttp INFO] "GET /static/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 304 0
+2018-11-10 14:24:48 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 14:24:48 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 14:31:20 [signals_handler DEBUG] Receive django ready signal
+2018-11-10 14:31:20 [signals_handler DEBUG]   - fresh all settings
+2018-11-10 14:32:16 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 14:32:16 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 14:32:21 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 916
+2018-11-10 16:43:36 [basehttp INFO] "GET / HTTP/1.1" 200 27653
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/img/logo-text.png HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/img/logo.png HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 304 0
+2018-11-10 16:43:36 [basehttp INFO] "GET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 304 0
+2018-11-10 16:43:43 [basehttp INFO] "GET /architecture/keepnet/ HTTP/1.1" 200 15077
+2018-11-10 16:43:43 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-11-10 16:43:49 [basehttp INFO] "GET /architecture/keepnet/get_keep/?keep=get HTTP/1.1" 200 657

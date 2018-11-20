@@ -65,6 +65,7 @@ v1_api_patterns = [
     path('audits/v1/', include('audits.urls.api_urls', namespace='api-audits')),
     path('orgs/v1/', include('orgs.urls.api_urls', namespace='api-orgs')),
     path('common/v1/', include('common.urls.api_urls', namespace='api-common')),
+    path('onlineconfig/v1/', include('onlineconfig.urls.api_urls', namespace='api-onlineconfig')),
 ]
 
 app_view_patterns = [
