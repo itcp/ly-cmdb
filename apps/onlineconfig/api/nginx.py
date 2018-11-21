@@ -40,9 +40,10 @@ host_data = [
 example = 'example.com'
 
 vhost_dir = '/usr/local/nginx/conf/vhost/'
-
+master_nginx_conf = "/usr/local/nginx/conf/nginx.conf"
 nginx_reload = '/usr/local/nginx/sbin/nginx -s reload'
 www_dir = "/usr/local/nginx/html/"
+old_www_dir = "/home/wwwroot/"
 
 class NginxConfigViewSet(APIView):
     """
@@ -93,13 +94,13 @@ class NginxConfigViewSet(APIView):
 
             {"action": {"module": "replace", \
             "args": {"path": vhost_dir + request.data["domain"] + "/game." + request.data["domain"] + ".conf", \
-            "regexp": "/home/wwwroot/web-desktophuihuang", \
+            "regexp": old_www_dir + "web-desktophuihuang", \
             "replace": www_dir + "web-desktop" + request.data["domain"]}}, \
             "name": "create_game" },
 
             {"action": {"module": "replace", \
             "args": {"path": vhost_dir + request.data["domain"] + "/game." + request.data["domain"] + ".conf", \
-            "regexp": "/home/wwwroot/web-mobile-huihuang", \
+            "regexp": old_www_dir + "web-mobile-huihuang", \
             "replace": www_dir + "web-mobile-" + request.data["domain"]}}, \
             "name": "create_game_web-desktop-mobile" },
 
@@ -110,7 +111,7 @@ class NginxConfigViewSet(APIView):
 
             {"action": {"module": "replace", \
             "args": {"path": vhost_dir + request.data["domain"] + "/g." + request.data["domain"] + ".conf", \
-            "regexp": "/home/wwwroot/web-mobile-huihuang", "replace": www_dir + "web-mobile-" + request.data["domain"]}}, \
+            "regexp": old_www_dir + "web-mobile-huihuang", "replace": www_dir + "web-mobile-" + request.data["domain"]}}, \
             "name": "create_g" },
 
             #m.example.com.conf
@@ -120,7 +121,7 @@ class NginxConfigViewSet(APIView):
 
             {"action": {"module": "replace", \
             "args": {"path": vhost_dir + request.data["domain"] + "/m." + request.data["domain"] + ".conf", \
-            "regexp": "/home/wwwroot/" + example + "/h5", "replace": www_dir + request.data["domain"] + "/h5"}}, \
+            "regexp": old_www_dir + example + "/h5", "replace": www_dir + request.data["domain"] + "/h5"}}, \
             "name": "create_m" },
 
             #www.example.com.conf
@@ -130,10 +131,18 @@ class NginxConfigViewSet(APIView):
 
             {"action": {"module": "replace", \
             "args": {"path": vhost_dir + request.data["domain"] + "/www." + request.data["domain"] + ".conf", \
-            "regexp": "/home/wwwroot/" + example + "/pc/", "replace": www_dir + request.data["domain"] + "/pc"}}, \
+            "regexp": old_www_dir + example + "/pc/", "replace": www_dir + request.data["domain"] + "/pc"}}, \
             "name": "create_pc" },
-                
-        ]
+            # 在nginx.conf 主配文件后面加上 include的目录
+            {"action": {"module": "replace", \
+            "args": {"path": master_nginx_conf, \
+            "regexp": "#headinclude", \
+            "replace": "#headinclude\r\n  include vhost/" + request.data["domain"] + "/*.conf;"}}, \
+            "name": "replace_nginx" },
+
+            # 最后要一个nginx reload 的动作
+            ]
+        
         ret = runner.run(tasks, "all")
         exechost = ret.results_raw["ok"]["nginx_1"]
         okdomain = {
