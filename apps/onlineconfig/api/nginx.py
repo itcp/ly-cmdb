@@ -22,7 +22,7 @@ from rest_framework.views import APIView
 
 logger = get_logger(__name__)
 __all__ = [
-    'NginxConfigViewSet', 'NginxUpdateConfApi'
+    'NginxConfigViewSet',
 ]
 
 
@@ -175,14 +175,3 @@ class NginxConfigViewSet(APIView):
             },
         }
         return Response(okdomain)
-
-        
-
-class NginxUpdateConfApi(APIView):
-    """
-    添加conf文件
-    """
-    def post(self, request):
-
-        return Response(request)
-

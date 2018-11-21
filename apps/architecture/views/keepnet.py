@@ -15,6 +15,24 @@ sys.path.insert(0, "../..")
 from ops.ansible.runner import AdHocRunner, CommandRunner
 from ops.ansible.inventory import BaseInventory
 
+host_data = [
+    {
+        "hostname": "keepalived1",
+        "ip": "172.20.100.68",
+        "port": 22,
+        "username": "root",
+            "groups": ["keepalived"],
+        #"password": "stu@python",
+    },
+    {
+        "hostname": "keepalived2",
+        "ip": "172.20.100.71",
+        "port": 22,
+        "username": "root",
+            "groups": ["keepalived"],
+        #"password": "stu@python",
+    }
+]
 
 def keepnet(request):
     return render(request, "architecture/keepnet.html")
@@ -22,27 +40,8 @@ def keepnet(request):
 
 class GetKeepIpaddr():
     def setUp(self):
-        host_data = [
-            {
-                "hostname": "keepalived1",
-                "ip": "172.20.100.68",
-                "port": 22,
-                "username": "root",
-                 "groups": ["keepalived"],
-                #"password": "stu@python",
-            },
-            {
-                "hostname": "keepalived2",
-                "ip": "172.20.100.71",
-                "port": 22,
-                "username": "root",
-                 "groups": ["keepalived"],
-                #"password": "stu@python",
-            }
-        ]
         inventory = BaseInventory(host_data)
         runner = AdHocRunner(inventory)
-
     
         tasks = [
             {"action": {"module": "shell", "args": "ip addr"}, "name": "ip_addr"},
