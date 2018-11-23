@@ -66,6 +66,9 @@ v1_api_patterns = [
     path('orgs/v1/', include('orgs.urls.api_urls', namespace='api-orgs')),
     path('common/v1/', include('common.urls.api_urls', namespace='api-common')),
     path('onlineconfig/v1/', include('onlineconfig.urls.api_urls', namespace='api-onlineconfig')),
+    
+    path('cloud/v1/', include('cloud.urls.api_urls', namespace='api-cloud')),
+    #path('cloud/v1/aliyun/', include('cloud.urls.aliyun_api_urls', namespace='aliyapi')),
 ]
 
 app_view_patterns = [
@@ -78,6 +81,8 @@ app_view_patterns = [
     path('orgs/', include('orgs.urls.views_urls', namespace='orgs')),
     path('onlineconfig/', include('onlineconfig.urls.views_urls', namespace='onlineconfig')),
     path('architecture/', include('architecture.urls.views_urls', namespace='architecture')),
+    #path('cloud/', include('cloud.urls.views_urls', namespace='cloud')),
+    path('cloud/', include('cloud.urls.views_urls', namespace='cloud')),
 ]
 
 if settings.XPACK_ENABLED:

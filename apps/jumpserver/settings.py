@@ -28,9 +28,9 @@ try:
     from config import config as CONFIG
 except ImportError:
     msg = """
-    
+
     Error: No config file found.
-    
+
     You can run `cp config_example.py config.py`, and edit it.
     """
     raise ImportError(msg)
@@ -67,12 +67,13 @@ INSTALLED_APPS = [
  #   'onlineconfig.apps.OnlineconfigConfig',
     'onlineconfig',
     'architecture',
+    'cloud',
     'rest_framework',
     'rest_framework_swagger',
     'drf_yasg',
     'django_filters',
 
-    
+
     'bootstrap3',
     'captcha',
     'django_celery_beat',

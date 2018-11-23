@@ -29,4 +29,3 @@ class CommandFilterRuleViewSet(BulkModelViewSet):
         cmd_filter = get_object_or_404(CommandFilter, pk=fpk)
         return cmd_filter.rules.all()
 
-

@@ -18,9 +18,11 @@
 ### 功能
 在Jumpserver的基础上增加了如下模块
 
-onlineconfig	在线配置	
++ onlineconfig	在线配置	
+			
 			是用来远程自动化配置环境参数的		
 
-architecture	架构拓扑
++ architecture	架构拓扑
+	
 			主要是查看业务系统的架构重要参数
 

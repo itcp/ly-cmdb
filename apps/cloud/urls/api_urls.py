@@ -1,4 +1,3 @@
-# coding:utf-8
 from django.urls import path
 from rest_framework_nested import routers
 # from rest_framework.routers import DefaultRouter
@@ -6,8 +5,8 @@ from rest_framework_bulk.routes import BulkRouter
 
 from .. import api
 
-app_name = 'onlineconfig'
+app_name = 'cloud'
 
 urlpatterns = [
-    path('nginx-conf/', api.NginxConfigViewSet.as_view(), name='nginx-conf-list'),
+    path('aliyun-getoss/', api.aliyun.GetOssViewSet.as_view(), name='aliyun-getoss'),
 ]
