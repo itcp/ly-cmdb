@@ -22,19 +22,14 @@ for bu in bucket_name:
 
     for parent,dirnames,filenames in os.walk(localdir):
             for filename in filenames:
-                    #print("parent folder is:" + parent)
                     bucket.put_object(parent[1:], b'content of object')
-                    #print("filename with full path:"+ os.path.join(parent,filename))
                     bucket.put_object(os.path.join(parent,filename)[1:], b'content of object')
 
-    # 同步后先把桶状态设为 public
+        # 同步后先把桶状态设为 public
     bucket.put_bucket_acl('public-read')
-    os.system("sed -i '/bucketStatus:/c bucketStatus: public' " + synclog)
-    os.system("sed -i '/syncbucket:/c syncbucket: no' " + synclog)
 
 os.system("sed -i '/syncStatus:/c syncStatus: no' " + synclog)
 os.system("sed -i '/bucketStatus:/c bucketStatus: public' " + synclog)
-
-os.system("sed -i '/bucketStatus:/c bucketStatus: private' " + synclog)
+os.system("sed -i '/syncingBucket:/c syncingBucket: no' " + synclog)
 endtime = time.strftime("%Y/%m/%d %H-%M-%S", time.localtime())
 os.system("sed -i '/end:/c end: " + endtime + "' " + synclog)

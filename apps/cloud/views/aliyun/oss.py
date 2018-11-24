@@ -12,6 +12,8 @@ import oss2
 
 package_dir = "/storage/dadir"
 synclog = "/storage/www/ly-cmdb/sync.log"
+exec_sync_bucket = "/storage/www/ly-cmdb/sync_bucket.py"
+
 def readSyncStatus():
     f = open(synclog, 'r')
     result = {}
@@ -32,7 +34,7 @@ def SyncOssView(request):
 
     try:
         if request.GET["file"] == "sync":
-            os.system("python3 /storage/www/ly-cmdb/index2.py > /dev/null 2>&1 &")
+            os.system("python3 " + exec_sync_bucket + " > /dev/null 2>&1 &")
 
         return HttpResponse(json.dumps({"status": "1"}))
     except:
