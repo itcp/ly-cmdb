@@ -25,33 +25,41 @@ host_data = [
 
 auth = oss2.Auth('AccessKeyId', 'AccessKeySecret')
 
+synclog = "/storage/sync.log"
+
+
+def readSyncStatus():
+    f = open(synclog, 'r')
+    result = {}
+    for line in f.readlines():
+        line = line.strip()
+        if not len(line):
+            continue
+        result[line.split(':')[0]] = line.split(':')[1]
+    f.close()
+    return result
+
 def SyncOssView(request):
-    #return HttpResponse("f")
-    
     struct_time = datetime.datetime.fromtimestamp(os.path.getmtime(package_dir)) 
     tz_utc_8 = datetime.timezone(datetime.timedelta(hours=8))
     str_time = datetime.datetime.strftime(struct_time.replace(tzinfo=tz_utc_8) ,'%Y-%m-%d %H:%M:%S')
-    #str_time = datetime.utcfromtimestamp(struct_time)
-    fileIfon = {"file": package_dir, "time": str_time}
+
+    fileIfon = {"file": package_dir, "time": str_time, "syncStatus": readSyncStatus()["syncStatus"]}
+
     try:
         if request.GET["file"] == "sync":
-            for bu in bucket_dir:
-                bucket = oss2.Bucket(auth, 'http://oss-cn-hongkong.aliyuncs.com', bu)
-                # 同步前先把桶状态设为 private
-                rep = bucket.put_bucket_acl('private')
-                inventory = BaseInventory(host_data)
-                runner = AdHocRunner(inventory)
+            os.system("python3 /storage/index3.py > /dev/null 2>&1 &")
 
-                tasks = [
-                    {"action": {"module": "copy", "args": \
-                    {"src": package_dir, "dest": "/root/" + bu + "/"}}, \
-                    "name": "copy" }
-                ]
-                ret = runner.run(tasks, "all")
-                # 同步后先把桶状态设为 public
-                rep = bucket.put_bucket_acl('public-read')
-
-            
         return HttpResponse(json.dumps({"status": "1"}))
     except:
         return render(request, "aliyun/oss.html", fileIfon)
+
+def getSyncStatus(request):
+    syncinfo = readSyncStatus()
+    syncStatus = syncinfo["syncStatus"]
+    if syncStatus == "no":
+        status = 1
+    else:
+        status = 0
+
+    return HttpResponse(json.dumps({"status": status, "bucketname": syncinfo["syncStatus"]}))
