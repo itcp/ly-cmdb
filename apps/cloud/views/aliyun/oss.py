@@ -10,24 +10,8 @@ import datetime
 import os 
 import oss2
 
-package_dir = "/storage/example.com"
-bucket_dir = ['regengxin-yfb', 'regengxin-yfb-tmp']
-host_data = [
-    {
-        "hostname": "nginx_1",
-        "ip": "172.20.100.104",
-        "port": 22,
-        "username": "root",
-            "groups": ["nginx"],
-        #"password": "stu@python",
-    }
-]
-
-auth = oss2.Auth('AccessKeyId', 'AccessKeySecret')
-
-synclog = "/storage/sync.log"
-
-
+package_dir = "/storage/dadir"
+synclog = "/storage/www/ly-cmdb/sync.log"
 def readSyncStatus():
     f = open(synclog, 'r')
     result = {}
@@ -48,7 +32,7 @@ def SyncOssView(request):
 
     try:
         if request.GET["file"] == "sync":
-            os.system("python3 /storage/index3.py > /dev/null 2>&1 &")
+            os.system("python3 /storage/www/ly-cmdb/index2.py > /dev/null 2>&1 &")
 
         return HttpResponse(json.dumps({"status": "1"}))
     except:
@@ -57,9 +41,9 @@ def SyncOssView(request):
 def getSyncStatus(request):
     syncinfo = readSyncStatus()
     syncStatus = syncinfo["syncStatus"]
-    if syncStatus == "no":
+    if syncStatus == " sync":
         status = 1
-    else:
+    elif syncStatus == " no":
         status = 0
 
-    return HttpResponse(json.dumps({"status": status, "bucketname": syncinfo["syncStatus"]}))
+    return HttpResponse(json.dumps({"status": status, "bucketname": syncinfo["syncingBucket"]}))

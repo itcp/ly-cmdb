@@ -63,7 +63,7 @@ function addForm(oDom){
           success : function(data){
             $(oDom).removeAttr("disabled");
               if(data['status'] == 1){
-                  alert('同步成功！');
+                $("#submit_button").text("同步中");
               }
               
           }
@@ -84,12 +84,12 @@ function ajax_wx_pay_status(timer) {
         
             if(data['status'] == 1){
                 $("#submit_button").attr({"disabled":"disabled"});
-                $("#submit_button").text("同步中")
-                $("#bucketname").text(data["bucketname"])
+                $("#submit_button").text("同步中");
+                $("#bucketname").text(data["bucketname"]);
             }else{
                 $("#submit_button").removeAttr("disabled");
-                $("#submit_button").text("可同步")
-                $("#bucketname").text("")
+                $("#submit_button").text("可同步");
+                $("#bucketname").text("");
             }
             
         }
