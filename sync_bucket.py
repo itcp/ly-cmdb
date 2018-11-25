@@ -7,7 +7,7 @@ bucket_name = ['regengxin-yfb', 'regengxin-yfb-tmp']
 localdir = "/storage/dadir"
 bucket_dir = ""
 
-auth = oss2.Auth('LTAI0iNRHjVkT7wv', 'pvSfPWuzBr4yw7tYcglI9IuKgBzBXT')
+auth = oss2.Auth('AccessKeyId', 'AccessKeySecret')
 
 starttime = time.strftime("%Y/%m/%d %H-%M-%S", time.localtime())
 os.system("sed -i '/start:/c start: " + starttime + "' " + synclog)

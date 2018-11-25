@@ -141,6 +141,10 @@ class NginxConfigViewSet(APIView):
             "name": "replace_nginx" },
 
             # 最后要一个nginx reload 的动作
+            {"action": {"module": "command", \
+            "args": nginx_reload }, \
+            "name": "nginx_reload" },
+
             ]
         
         ret = runner.run(tasks, "all")
