@@ -36,3 +36,4 @@ xpack
 __pycache__
 config.py
 log/*
+sync_bucket.py
