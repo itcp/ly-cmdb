@@ -10,8 +10,9 @@ import datetime
 import os 
 import oss2
 
-package_dir = "/storage/dadir"
-synclog = "/storage/www/ly-cmdb/sync.log"
+package_dir = ["/storage/dadir", "/storage/d2dir"]
+bucket_name = ['regengxin-yfb', 'regengxin-yfb-tmp']
+synclog = "/storage/cmdb/sync.log"
 exec_sync_bucket = "/storage/www/ly-cmdb/sync_bucket.py"
 
 def readSyncStatus():
@@ -26,11 +27,13 @@ def readSyncStatus():
     return result
 
 def SyncOssView(request):
-    struct_time = datetime.datetime.fromtimestamp(os.path.getmtime(package_dir)) 
-    tz_utc_8 = datetime.timezone(datetime.timedelta(hours=8))
-    str_time = datetime.datetime.strftime(struct_time.replace(tzinfo=tz_utc_8) ,'%Y-%m-%d %H:%M:%S')
+    str_time = []
+    for x_package in package_dir:
+        struct_time = datetime.datetime.fromtimestamp(os.path.getmtime(x_package)) 
+        tz_utc_8 = datetime.timezone(datetime.timedelta(hours=8))
+        str_time.append(datetime.datetime.strftime(struct_time.replace(tzinfo=tz_utc_8) ,'%Y-%m-%d %H:%M:%S'))
 
-    fileIfon = {"file": package_dir, "time": str_time, "syncStatus": readSyncStatus()["syncStatus"]}
+    fileIfon = {"file": zip(package_dir, str_time, bucket_name),"syncStatus": readSyncStatus()["syncStatus"]}
 
     try:
         if request.GET["file"] == "sync":

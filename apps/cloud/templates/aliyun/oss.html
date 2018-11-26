@@ -23,17 +23,16 @@
                             </div>
                        {% endif %}
                        <!-- -->
-                        
+                       {% for  package, time, bucket_name in file %}
                         <div class="form-group">
-                            {{ file }}&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;&nbsp;{{ time }} &nbsp;&nbsp;&nbsp;   
-                                <button id="submit_button" class="btn btn-primary" type="button" onclick="addForm(this)" >{% trans '同步' %}</button>
-                            <!-- -->
+                            {{ package }}&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;&nbsp;{{ time }} &nbsp;&nbsp;&nbsp;   
+                                <button  class="btn btn-primary submit_button" id="{{ bucket_name }}" type="button" onclick="addForm(this, '{{ package }}', '{{ bucket_name }}')" >{% trans '可同步' %}</button>
+                                同步到桶名&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;{{ bucket_name }}
                         </div>
                             
-                        <div class="form-group">
-                            同步中桶名&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<span id="bucketname" ></span>   
-                                
-                        </div>
+                       
+                        {% endfor %}
+
                         <!-- -->
 
                     </div>
@@ -53,22 +52,26 @@ $(document).ready(function () {
 })
 
 
-function addForm(oDom){
+function addForm(oDom, package, bucket_name){
     $(oDom).attr({"disabled":"disabled"});
       $.ajax({
-          url : "{% url 'cloud:aliyun-syncoss' %}",
-          type : 'GET',
-          dataType : 'json',
-          data: {"file": "sync"},
-          success : function(data){
-            $(oDom).removeAttr("disabled");
-              if(data['status'] == 1){
-                $("#submit_button").text("同步中");
-              }
-              
-          }
-      });
-  }
+        url : "{% url 'cloud:aliyun-syncoss' %}",
+        type : 'GET',
+        dataType : 'json',
+        data: {
+            "file": "sync",
+            "package": package,
+            "bucket_name": bucket_name
+            },
+        success : function(data){
+        $(oDom).removeAttr("disabled");
+            if(data['status'] == 1){
+            $("#submit_button").text("同步中");
+            }
+            
+        }
+    });
+}
 
 $(document).ready(function(){
     var timer = setInterval(function(){ajax_wx_pay_status(timer)},1000);
@@ -83,9 +86,8 @@ function ajax_wx_pay_status(timer) {
         success : function(data){
         
             if(data['status'] == 1){
-                $("#submit_button").attr({"disabled":"disabled"});
-                $("#submit_button").text("同步中");
-                $("#bucketname").text(data["bucketname"]);
+                $(".submit_button").attr({"disabled":"disabled"});
+                $(".submit_button").text("正同步到" + data['bucketname'] + "中...");
             }else{
                 $("#submit_button").removeAttr("disabled");
                 $("#submit_button").text("可同步");
