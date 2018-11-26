@@ -37,3 +37,4 @@ __pycache__
 config.py
 log/*
 sync_bucket.py
+sync.log

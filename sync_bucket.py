@@ -19,7 +19,7 @@ bucket.put_bucket_acl('private')
 os.system("sed -i '/bucketStatus:/c bucketStatus: private' " + synclog)
 os.system("sed -i '/syncingBucket:/c syncingBucket: " + bucket_name + "' " + synclog)
 
-for parent,dirnames,filenames in os.walk(localdir):
+for parent,dirnames,filenames in os.walk(package_dir):
         for filename in filenames:
                 bucket.put_object(parent[1:], b'content of object')
                 bucket.put_object(os.path.join(parent,filename)[1:], b'content of object')

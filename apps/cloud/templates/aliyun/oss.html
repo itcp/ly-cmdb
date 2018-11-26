@@ -89,9 +89,8 @@ function ajax_wx_pay_status(timer) {
                 $(".submit_button").attr({"disabled":"disabled"});
                 $(".submit_button").text("正同步到" + data['bucketname'] + "中...");
             }else{
-                $("#submit_button").removeAttr("disabled");
-                $("#submit_button").text("可同步");
-                $("#bucketname").text("");
+                $(".submit_button").removeAttr("disabled");
+                $(".submit_button").text("可同步");
             }
             
         }
